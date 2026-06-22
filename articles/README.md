@@ -4,4 +4,5 @@
 
 ## Index
 
+- [国内 Visa 能买 ChatGPT Plus 吗？没有国外信用卡怎么开通](./chatgpt-plus-without-overseas-card.md)
 - [ChatGPT Plus 订阅页面支付异常排查](./chatgpt-plus-payment-troubleshooting.md)
