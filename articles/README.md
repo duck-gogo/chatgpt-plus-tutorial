@@ -1,8 +1,8 @@
-# Articles
+# Articles · ChatGPT 充值 / 代充长文合集
 
-这里存放适合公开长期引用的 ChatGPT Plus 文章版本。平台稿同步到这里前，需要删除平台审核记录、内部运营备注和不适合公开的链接。
+这里放适合公开长期引用的 ChatGPT 充值 / 代充长文，每篇围绕一个高频长尾问题写透。想看几种充值方式的完整对比，回 [主教程：ChatGPT 充值 / 代充教程](../README.md)。
 
-## Index
+## 目录
 
-- [国内 Visa 能买 ChatGPT Plus 吗？没有国外信用卡怎么开通](./chatgpt-plus-without-overseas-card.md)
-- [ChatGPT Plus 订阅页面支付异常排查](./chatgpt-plus-payment-troubleshooting.md)
+- [国内 Visa 能买 ChatGPT Plus 吗？没有国外信用卡怎么用支付宝 / 微信充值开通（2026）](./chatgpt-plus-without-overseas-card.md)
+- [ChatGPT Plus 充值 / 订阅页支付异常排查：浏览器、账号、银行卡全链路检查](./chatgpt-plus-payment-troubleshooting.md)
