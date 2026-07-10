@@ -2,7 +2,7 @@
 
 <p align="center">本教程最新更新时间：2026 年 7 月 10 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
 
-![2026 年最新 ChatGPT 充值 / 代充教程封面](./assets/images/chatgpt-plus-cover.png)
+[![2026 年最新 ChatGPT 充值 / 代充教程封面](./assets/images/chatgpt-plus-cover.png)](https://plusgo.pro/?utm_source=github01)
 
 **建议收藏 + Star 本 ChatGPT 充值教程，方便随时回来查，也防止丢失。**
 
