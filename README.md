@@ -1,6 +1,6 @@
-# <p align="center">[亲测可用] 2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 ChatGPT Plus、Pro、Go、Codex</p>
+# <p align="center">[亲测可用] 2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
 
-<p align="center">本教程最新更新时间：2026 年 7 月 4 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
+<p align="center">本教程最新更新时间：2026 年 7 月 10 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
 
 ![2026 年最新 ChatGPT 充值 / 代充教程封面](./assets/images/chatgpt-plus-cover.png)
 
@@ -23,8 +23,34 @@
 
 ------
 
+<a id="gpt-5-6"></a>
+
+## GPT-5.6 已发布（7 月 9 日）：哪个档位才能用上？
+
+GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。三个型号按能力从弱到强是 **Luna → Terra → Sol**——注意 Luna 是最快最省的那个，不是最强的，名字容易让人搞反。Pro 之上还有 Sol Pro。
+
+不少人第一反应是"是不是得再买一次"。先看你现在的档位能拿到什么（截至 2026 年 7 月 10 日）：
+
+| 你的档位 | Chat 里能用的最强模型 | 想再往上要什么 |
+|---|---|---|
+| Free / Go | 用不到 Sol；ChatGPT Work / Codex 里是 Terra | 升 Plus |
+| **Plus** | **Sol**（medium 及以上 effort） | Codex 里可开 `ultra` |
+| Pro | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
+| 企业 / Enterprise | Sol + Sol Pro | — |
+
+> **模型选择器里看不到 GPT-5.6，不代表账号有问题，也不代表充值没到账。** 官方是分批放开的，同档位的账号也有先后，等灰度轮到就会出现。
+
+所以结论很简单：**已经是 Plus 的不用额外付费**，Chat 里直接能选 Sol；免费号和 Go 在 Chat 里拿不到 Sol，想用得先升到 Plus。这块展开讲在 [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号](./articles/gpt-5-6-which-plan.md)。
+
+想看型号区别、`max` / `ultra` 模式和 API 价格的完整拆解，可以读 <a href="https://plusgo.pro/blog/gpt-5-6-release-guide/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">GPT-5.6 发布了吗？Sol / Terra / Luna 区别</a>；灰度迟迟没轮到你，见 <a href="https://plusgo.pro/blog/gpt-5-6-sol-launch/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">Sol 正式上线，看不到入口怎么办</a>。
+
+国内没有海外信用卡、想直接把账号开到 Plus / Pro 的，走 [方法二：第三方自助代充平台](#method-topup) 最省心。
+
+------
+
 ## 📚 目录
 
+- [GPT-5.6 已发布：哪个档位才能用上](#gpt-5-6)
 - [先说结论（一句话）](#summary)
 - [方法一：海外信用卡 / 虚拟卡](#method-card)
 - [方法二：第三方自助代充平台（推荐）✅](#method-topup)
@@ -39,7 +65,7 @@
 - [Plus 用满后要不要看 Pro](#pro)
 - [维护说明 / 更新记录](#changelog)
 
-> 更多资料：[ChatGPT 充值能开发票吗（可报销 / 公对公）](./articles/chatgpt-plus-invoice-reimbursement.md) · [ChatGPT Pro 公司报销怎么入账](./articles/chatgpt-pro-company-reimbursement.md) · [没有国外信用卡怎么开通 ChatGPT Plus](./articles/chatgpt-plus-without-overseas-card.md) · [订阅页面支付异常排查](./articles/chatgpt-plus-payment-troubleshooting.md) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
+> 更多资料：[GPT-5.6 要额外付费吗（Plus / Pro 各能用哪个型号）](./articles/gpt-5-6-which-plan.md) · [ChatGPT 充值能开发票吗（可报销 / 公对公）](./articles/chatgpt-plus-invoice-reimbursement.md) · [ChatGPT Pro 公司报销怎么入账](./articles/chatgpt-pro-company-reimbursement.md) · [没有国外信用卡怎么开通 ChatGPT Plus](./articles/chatgpt-plus-without-overseas-card.md) · [订阅页面支付异常排查](./articles/chatgpt-plus-payment-troubleshooting.md) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
 
 ------
 
@@ -365,8 +391,9 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 
 ## 维护说明 / 更新记录
 
-这份教程会优先更新：ChatGPT 充值入口或页面提示变化、国内常见支付失败 / 账号状态 / 续费问题的新表现、第三方代充平台筛选标准、Plus / Pro / Go / Codex 档位的新选择问题。
+这份教程会优先更新：ChatGPT 充值入口或页面提示变化、国内常见支付失败 / 账号状态 / 续费问题的新表现、第三方代充平台筛选标准、Plus / Pro / Go / Codex 档位的新选择问题、新模型发布后各档位的可用性变化。
 
+- 2026-07-10：GPT-5.6（Luna / Terra / Sol）于 7 月 9 日正式发布，新增 [档位对照区块](#gpt-5-6) 说明哪个档位能用上哪个型号，并补充专文《GPT-5.6 要额外付费吗》；标题补入 GPT-5.6。
 - 2026-07-04：例行时效巡检——确认第三方自助代充、苹果内购在 7 月仍可走通，bump 更新时间并在仍有效方法旁标注「2026 年 7 月实测仍可用」。
 - 2026-06-28：新增「能开发票 / 可报销」内容簇——专文《ChatGPT 充值能开发票吗》、README 发票小节（`#invoice`）与 FAQ，主打公对公报销人群。
 - 2026-06-27：围绕"ChatGPT 充值 / 代充"重写 README，统一第一人称实测口吻，补充真实充值流程截图、6 列方式对比表、PlusGO 售后条款，细化 10 个报错排查。

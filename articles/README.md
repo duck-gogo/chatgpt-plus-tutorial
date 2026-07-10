@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号（2026）](./gpt-5-6-which-plan.md)
 - [ChatGPT Plus / Pro 充值能开发票吗？国内如何拿到可报销的增值税发票（2026）](./chatgpt-plus-invoice-reimbursement.md)
 - [ChatGPT Pro 公司报销怎么入账？发票、走账、会计科目全流程（2026）](./chatgpt-pro-company-reimbursement.md)
 - [国内 Visa 能买 ChatGPT Plus 吗？没有国外信用卡怎么用支付宝 / 微信充值开通（2026）](./chatgpt-plus-without-overseas-card.md)
