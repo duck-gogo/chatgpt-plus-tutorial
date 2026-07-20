@@ -1,6 +1,6 @@
 # <p align="center">[亲测可用] 2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
 
-<p align="center">本教程最新更新时间：2026 年 7 月 10 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
+<p align="center">本教程最新更新时间：2026 年 7 月 20 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
 
 [![2026 年最新 ChatGPT 充值 / 代充教程封面](./assets/images/chatgpt-plus-cover.png)](https://plusgo.pro/?utm_source=github01)
 
@@ -63,6 +63,7 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。
 - [2026 年 ChatGPT 充值常见问题 FAQ](#faq)
 - [附录：国内自己充 ChatGPT 最常见的 10 个报错](#troubleshooting)
 - [Plus 用满后要不要看 Pro](#pro)
+- [团队 / 多人一起用：ChatGPT Business](#business)
 - [维护说明 / 更新记录](#changelog)
 
 > 更多资料：[GPT-5.6 要额外付费吗（Plus / Pro 各能用哪个型号）](./articles/gpt-5-6-which-plan.md) · [ChatGPT 充值能开发票吗（可报销 / 公对公）](./articles/chatgpt-plus-invoice-reimbursement.md) · [ChatGPT Pro 公司报销怎么入账](./articles/chatgpt-pro-company-reimbursement.md) · [没有国外信用卡怎么开通 ChatGPT Plus](./articles/chatgpt-plus-without-overseas-card.md) · [订阅页面支付异常排查](./articles/chatgpt-plus-payment-troubleshooting.md) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
@@ -124,7 +125,7 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。
 
 ⚠️ **选平台先认准三条，少一条都别碰：** 支付通道正规（支付宝 / 微信可追溯）+ 自助充值（不用交账号密码）+ 明确售后承诺（充值失败可退款）。别贪小红书、闲鱼那种极低价的盗刷黑充——十有八九这个月开、下个月就关店，真出了问题你连个人都找不到。一个长期稳定、有真实售后的平台，比省那几块钱重要得多。
 
-我自己跑过好几家，最稳、最省心、价格也最厚道的就是 <a href="https://plusgo.pro/?utm_source=github01" target="_blank" rel="noopener">PlusGO（plusgo.pro）</a>，一句话——**该有的都有，售后靠谱**：支持 ChatGPT Go / Plus / Pro / Codex 充值，支付宝 / 微信付人民币，自助充值不用交密码，平均 2–3 分钟到账，充值失败 100% 原路退款。并且他们还质保掉号。这是其它平台基本上不会提供的售后保障。
+我自己跑过好几家，最稳、最省心、价格也最厚道的就是 <a href="https://plusgo.pro/?utm_source=github01" target="_blank" rel="noopener">PlusGO（plusgo.pro）</a>，一句话——**该有的都有，售后靠谱**：支持 ChatGPT Go / Plus / Pro / Business（团队版）/ Codex 充值，支付宝 / 微信付人民币，自助充值不用交密码，平均 2–3 分钟到账，充值失败原路退款。并且他们还质保掉号。这是其它平台基本上不会提供的售后保障。
 ![用过的靠谱的第三方代充平台](./assets/images/plusgo-homepage.png)
 
 <a id="invoice"></a>
@@ -314,6 +315,10 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。
 
 能。官方订阅只给美元境外 invoice，国内公司财务通常不认、报不了销；但走支持开票的代充平台，可以拿到**增值税电子普通发票**，作为公司报销凭证。我在用的 PlusGO 就支持开发票、可走公对公付款——下单后带手机号或订单号联系客服，提供抬头和纳税人识别号即可。一个月 200 美元的 Pro 走公司报销，尤其用得上。详见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
 
+### Q10：团队里好几个人都要用，是每人开一个 Plus 还是上 Business？
+
+看人数，也看要不要统一报销。3 个人以内、各用各的，直接每人一个 Plus 最省事。人一多、要统一管理席位、集中走对公报销，就该看 OpenAI 的团队档 **ChatGPT Business**（官方参考价 $25 / 席 / 月，按席位买，通常 5 席起）。国内一样能用支付宝 / 微信按席位代充、可对公开发票。展开见上面 [团队 / 多人一起用：要不要上 ChatGPT Business](#business)。
+
 ------
 
 <a id="troubleshooting"></a>
@@ -387,12 +392,46 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 
 ------
 
+<a id="business"></a>
+
+## 团队 / 多人一起用：要不要上 ChatGPT Business
+
+前面 Plus、Pro 都是给一个人用的。如果是一个小团队、工作室，或者公司里好几个人都要用 ChatGPT，一人开一个 Plus 就有点乱——账号分散、报销也各交各的。这种多人场景，可以看 OpenAI 的团队档 **ChatGPT Business**（早期叫 ChatGPT Team）。
+
+**它和 Plus 差在哪：**
+
+- **按席位买、多人协作**：一个工作区里拉进多个成员，管理员统一加人 / 减人，不用每个人各自守一个号；
+- **官方按人头计价**：参考价 **$25 / 席 / 月**（官方口径），团队统一开比一堆散装 Plus 更好管；
+- **数据默认不用于模型训练**：团队和公司场景通常更在意这一点；
+- **报销更清爽**：多个席位可以走一张发票、对公付款，比一人一单好入账。
+
+**适合谁 / 不适合谁：**
+
+- **适合**：团队 / 工作室 / 公司里有好几个人要长期用，需要统一管理席位、集中报销、走对公付款的；
+- **不适合**：只有你自己一个人用——那 Plus 就够了，没必要为了"团队版"三个字多花钱。
+
+**国内怎么开（和 Plus 一样走支付宝 / 微信）：**
+
+思路和前面 [方法二：第三方自助代充平台](#method-topup) 完全一致，只是多了一步选席位：
+
+1. 先想清楚要开几个席位——这类渠道通常 **5 席起、最多 50 席**，按你选的席位数计费；
+2. 在代充平台选 ChatGPT Business，填席位数，页面会实时把总额算出来；
+3. 支付宝 / 微信扫码付款；需要对公付款、开发票的，下单后带订单号联系客服说明抬头和税号；
+4. 开通方案由**专人对接确认**，付完保存订单号，有问题凭订单号找售后。
+
+我自己用的 <a href="https://plusgo.pro/?utm_source=github01" target="_blank" rel="noopener">PlusGO</a> 这块也能走：Business 按席位下单、支付宝 / 微信付人民币、可对公开发票、充值失败原路退款，适合卡在"团队多人 + 报销"这一环的人。再说一句，个人单用真的不用考虑它，Plus 就够。
+
+> 💡 团队采购基本都要报销：多个席位建议一次性开、走对公付款 + 一张发票，入账最省事。发票怎么开、普票能不能报销，见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
+
+------
+
 <a id="changelog"></a>
 
 ## 维护说明 / 更新记录
 
 这份教程会优先更新：ChatGPT 充值入口或页面提示变化、国内常见支付失败 / 账号状态 / 续费问题的新表现、第三方代充平台筛选标准、Plus / Pro / Go / Codex 档位的新选择问题、新模型发布后各档位的可用性变化。
 
+- 2026-07-20：新增 [ChatGPT Business（团队版）](#business) 区块——面向多人团队 / 公司统一采购与报销，说明按席位（5 席起、最多 50 席）开通、支付宝 / 微信付款、可对公开发票；方法二档位列表与 FAQ 同步补入 Business。
 - 2026-07-10：GPT-5.6（Luna / Terra / Sol）于 7 月 9 日正式发布，新增 [档位对照区块](#gpt-5-6) 说明哪个档位能用上哪个型号，并补充专文《GPT-5.6 要额外付费吗》；标题补入 GPT-5.6。
 - 2026-07-04：例行时效巡检——确认第三方自助代充、苹果内购在 7 月仍可走通，bump 更新时间并在仍有效方法旁标注「2026 年 7 月实测仍可用」。
 - 2026-06-28：新增「能开发票 / 可报销」内容簇——专文《ChatGPT 充值能开发票吗》、README 发票小节（`#invoice`）与 FAQ，主打公对公报销人群。
