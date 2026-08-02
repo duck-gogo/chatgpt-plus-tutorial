@@ -1,6 +1,6 @@
 # <p align="center">[亲测可用] 2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
 
-<p align="center">本教程最新更新时间：2026 年 7 月 20 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
+<p align="center">本教程最新更新时间：2026 年 8 月 2 日 · 官方渠道，自助充值，不用交账号密码，支持开发票可报销</p>
 
 [![2026 年最新 ChatGPT 充值 / 代充教程封面](./assets/images/chatgpt-plus-cover.png)](https://plusgo.pro/?utm_source=github01)
 
@@ -27,22 +27,23 @@
 
 ## GPT-5.6 已发布（7 月 9 日）：哪个档位才能用上？
 
-GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。三个型号按能力从弱到强是 **Luna → Terra → Sol**——注意 Luna 是最快最省的那个，不是最强的，名字容易让人搞反。Pro 之上还有 Sol Pro。
+GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布。三个型号按能力从弱到强是 **Luna → Terra → Sol**——注意 Luna 是最快最省的那个，不是最强的，名字容易让人搞反。Sol 之上还有面向 Pro 和 Enterprise 的 Sol Pro。
 
-不少人第一反应是"是不是得再买一次"。先看你现在的档位能拿到什么（截至 2026 年 7 月 10 日）：
+不少人第一反应是"是不是得再买一次"。先看你现在的档位能拿到什么（截至 2026 年 8 月 2 日）：
 
 | 你的档位 | Chat 里能用的最强模型 | 想再往上要什么 |
 |---|---|---|
 | Free / Go | 用不到 Sol；ChatGPT Work / Codex 里是 Terra | 升 Plus |
 | **Plus** | **Sol**（medium 及以上 effort） | Codex 里可开 `ultra` |
-| Pro | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
-| 企业 / Enterprise | Sol + Sol Pro | — |
+| Pro 5× / 20× | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
+| Business | Sol | 无 Sol Pro；Work 里无 `ultra` |
+| Enterprise | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
 
-> **模型选择器里看不到 GPT-5.6，不代表账号有问题，也不代表充值没到账。** 官方是分批放开的，同档位的账号也有先后，等灰度轮到就会出现。
+> **模型选择器里看不到 GPT-5.6，不代表账号有问题，也不代表充值没到账。** 官方发布时说明全球开放会在约 24 小时内逐步完成；现在仍看不到时，先确认自己所在的是 Chat、ChatGPT Work 还是 Codex，并核对账号档位和 effort 设置，不要继续按"等灰度"处理。
 
 所以结论很简单：**已经是 Plus 的不用额外付费**，Chat 里直接能选 Sol；免费号和 Go 在 Chat 里拿不到 Sol，想用得先升到 Plus。这块展开讲在 [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号](./articles/gpt-5-6-which-plan.md)。
 
-想看型号区别、`max` / `ultra` 模式和 API 价格的完整拆解，可以读 <a href="https://plusgo.pro/blog/gpt-5-6-release-guide/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">GPT-5.6 发布了吗？Sol / Terra / Luna 区别</a>；灰度迟迟没轮到你，见 <a href="https://plusgo.pro/blog/gpt-5-6-sol-launch/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">Sol 正式上线，看不到入口怎么办</a>。
+想看型号区别、`max` / `ultra` 模式和 API 价格的完整拆解，可以读 <a href="https://plusgo.pro/blog/gpt-5-6-release-guide/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">GPT-5.6 发布了吗？Sol / Terra / Luna 区别</a>；入口仍找不到时，见 <a href="https://plusgo.pro/blog/gpt-5-6-sol-launch/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">Sol 正式上线，看不到入口怎么办</a>。
 
 国内没有海外信用卡、想直接把账号开到 Plus / Pro 的，走 [方法二：第三方自助代充平台](#method-topup) 最省心。
 
@@ -134,7 +135,7 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。
 
 这点真的解决了我一个大痛点：**PlusGO 能开发票（增值税电子普票），支持公对公付款，可以拿去公司报销。**
 
-程序员一个月开 Pro 要 200 美元，公司本来能报销，但官方只给一张美元境外 invoice，国内财务根本不认；其它大多数代充平台也只甩个电子 invoice，结果只能自己扛，吃不消。能开**正规增值税发票**就成了我留在这家的关键原因。
+ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**，公司本来能报销，但官方只给一张美元境外 invoice，国内财务根本不认；其它大多数代充平台也只甩个电子 invoice，结果只能自己扛，吃不消。能开**正规增值税发票**就成了我留在这家的关键原因。
 
 - **发票类型：** 增值税电子普通发票（电子普票），可作公司报销凭证。
 - **支持公对公：** 可走对公付款，方便走公司账、报销入账。
@@ -313,11 +314,11 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布，分批灰度放开。
 
 ### Q9：ChatGPT 充值能开发票吗？能报销吗？
 
-能。官方订阅只给美元境外 invoice，国内公司财务通常不认、报不了销；但走支持开票的代充平台，可以拿到**增值税电子普通发票**，作为公司报销凭证。我在用的 PlusGO 就支持开发票、可走公对公付款——下单后带手机号或订单号联系客服，提供抬头和纳税人识别号即可。一个月 200 美元的 Pro 走公司报销，尤其用得上。详见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
+能。官方订阅只给美元境外 invoice，国内公司财务通常不认、报不了销；但走支持开票的代充平台，可以拿到**增值税电子普通发票**，作为公司报销凭证。我在用的 PlusGO 就支持开发票、可走公对公付款——下单后带手机号或订单号联系客服，提供抬头和纳税人识别号即可。Pro 5×（$100 / 月）和 Pro 20×（$200 / 月）走公司报销，尤其用得上。详见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
 
 ### Q10：团队里好几个人都要用，是每人开一个 Plus 还是上 Business？
 
-看人数，也看要不要统一报销。3 个人以内、各用各的，直接每人一个 Plus 最省事。人一多、要统一管理席位、集中走对公报销，就该看 OpenAI 的团队档 **ChatGPT Business**（官方参考价 $25 / 席 / 月，按席位买，通常 5 席起）。国内一样能用支付宝 / 微信按席位代充、可对公开发票。展开见上面 [团队 / 多人一起用：要不要上 ChatGPT Business](#business)。
+看人数，也看要不要统一管理和报销。OpenAI 官方的 Business 标准 ChatGPT 席位**最低 2 席**，参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**；PlusGO 当前的 Business 购买渠道则是 **5 席起、最多 50 席**。需要团队工作区、统一管理席位和集中报销时再考虑 Business。展开见上面 [团队 / 多人一起用：要不要上 ChatGPT Business](#business)。
 
 ------
 
@@ -375,9 +376,9 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 
 <a id="pro"></a>
 
-## Plus 用满后要不要看 Pro
+## Plus 用满后要不要看 Pro 5× / 20×
 
-先把 Plus 当起点，而不是把 Pro 当默认。Plus 适合大多数日常写作、翻译、问答、轻度代码和资料整理；Pro 更适合每天长时间用 ChatGPT 或 Codex、经常被额度或任务长度打断的重度用户。
+先把 Plus 当起点，而不是把 Pro 当默认。Plus 适合大多数日常写作、翻译、问答、轻度代码和资料整理；Pro 更适合每天长时间用 ChatGPT 或 Codex、经常被额度或任务长度打断的重度用户。官方现在提供 **Pro $100 / 月（5× 用量）**和 **Pro $200 / 月（20× 用量）**两档，两档核心能力相同，主要区别是使用额度。
 
 ```
 [ ] Plus 额度经常在工作中途用完
@@ -386,9 +387,9 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 [ ] 订阅成本能被省下来的时间覆盖
 ```
 
-如果只是偶尔问答、写文案、轻度编程，Plus 通常够用。确认自己是重度用户后，可以继续看这份 Pro 教程：[ChatGPT Pro 充值代充指南：国内如何用微信 / 支付宝订阅 Pro 会员](https://github.com/duck-gogo/chatgpt-pro-tutorial)。
+如果只是偶尔问答、写文案、轻度编程，Plus 通常够用。经常吃满 Plus 额度时先看 Pro 5×；持续并行跑重任务、5× 仍不够时再看 Pro 20×。确认自己是重度用户后，可以继续看这份 Pro 教程：[ChatGPT Pro 充值代充指南：国内如何用微信 / 支付宝订阅 Pro 会员](https://github.com/duck-gogo/chatgpt-pro-tutorial)。
 
-> 💡 Pro 一个月 200 美元，如果走公司报销，记得选**能开发票**的充值方式——官方境外 invoice 国内财务多半不认。怎么拿到可报销的增值税发票，见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
+> 💡 Pro 5× 为 $100 / 月，Pro 20× 为 $200 / 月。如果走公司报销，记得选**能开发票**的充值方式——官方境外 invoice 国内财务多半不认。怎么拿到可报销的增值税发票，见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
 
 ------
 
@@ -401,7 +402,7 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 **它和 Plus 差在哪：**
 
 - **按席位买、多人协作**：一个工作区里拉进多个成员，管理员统一加人 / 减人，不用每个人各自守一个号；
-- **官方按人头计价**：参考价 **$25 / 席 / 月**（官方口径），团队统一开比一堆散装 Plus 更好管；
+- **官方按人头计价**：标准 ChatGPT 席位最低 2 席；参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**；
 - **数据默认不用于模型训练**：团队和公司场景通常更在意这一点；
 - **报销更清爽**：多个席位可以走一张发票、对公付款，比一人一单好入账。
 
@@ -412,9 +413,9 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 
 **国内怎么开（和 Plus 一样走支付宝 / 微信）：**
 
-思路和前面 [方法二：第三方自助代充平台](#method-topup) 完全一致，只是多了一步选席位：
+OpenAI 官方标准 ChatGPT 席位最低 2 席；下面是 PlusGO 当前购买渠道的规则和流程：
 
-1. 先想清楚要开几个席位——这类渠道通常 **5 席起、最多 50 席**，按你选的席位数计费；
+1. 先想清楚要开几个席位——PlusGO 当前渠道为 **5 席起、最多 50 席**，按你选的席位数计费；
 2. 在代充平台选 ChatGPT Business，填席位数，页面会实时把总额算出来；
 3. 支付宝 / 微信扫码付款；需要对公付款、开发票的，下单后带订单号联系客服说明抬头和税号；
 4. 开通方案由**专人对接确认**，付完保存订单号，有问题凭订单号找售后。
@@ -431,7 +432,8 @@ OpenAI 临时风控收紧的信号：同一 IP 短时间多次尝试、虚拟卡
 
 这份教程会优先更新：ChatGPT 充值入口或页面提示变化、国内常见支付失败 / 账号状态 / 续费问题的新表现、第三方代充平台筛选标准、Plus / Pro / Go / Codex 档位的新选择问题、新模型发布后各档位的可用性变化。
 
-- 2026-07-20：新增 [ChatGPT Business（团队版）](#business) 区块——面向多人团队 / 公司统一采购与报销，说明按席位（5 席起、最多 50 席）开通、支付宝 / 微信付款、可对公开发票；方法二档位列表与 FAQ 同步补入 Business。
+- 2026-08-02：修正 Pro 两档（$100 / 5×、$200 / 20×）、Business 官方最低 2 个标准席位与 PlusGO 当前 5–50 席渠道口径，并更新 GPT-5.6 的 Business / Enterprise 权益和发布后排查提示。
+- 2026-07-20：新增 [ChatGPT Business（团队版）](#business) 区块——面向多人团队 / 公司统一采购与报销，说明 PlusGO 渠道按席位（5 席起、最多 50 席）开通、支付宝 / 微信付款、可对公开发票；方法二档位列表与 FAQ 同步补入 Business。
 - 2026-07-10：GPT-5.6（Luna / Terra / Sol）于 7 月 9 日正式发布，新增 [档位对照区块](#gpt-5-6) 说明哪个档位能用上哪个型号，并补充专文《GPT-5.6 要额外付费吗》；标题补入 GPT-5.6。
 - 2026-07-04：例行时效巡检——确认第三方自助代充、苹果内购在 7 月仍可走通，bump 更新时间并在仍有效方法旁标注「2026 年 7 月实测仍可用」。
 - 2026-06-28：新增「能开发票 / 可报销」内容簇——专文《ChatGPT 充值能开发票吗》、README 发票小节（`#invoice`）与 FAQ，主打公对公报销人群。

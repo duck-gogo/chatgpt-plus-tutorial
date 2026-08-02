@@ -1,6 +1,6 @@
 # GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号（2026）
 
-> 最近更新：2026 年 7 月 10 日
+> 最近更新：2026 年 8 月 2 日
 
 关键词：`GPT-5.6 要钱吗` `GPT-5.6 Plus 能用吗` `GPT-5.6 需要 Pro 吗` `已经是 Plus 要重新充值吗` `GPT-5.6 国内怎么开通`
 
@@ -27,27 +27,28 @@ GPT-5.6 在 2026 年 7 月 9 日正式公开发布，接着就是一大堆人问
 
 **Luna → Terra → Sol**，从弱到强。
 
-Luna 是最快、最省的那个，**不是最强的**。很多人看到 Luna（月）和 Sol（日）以为是并列的两个风格，其实是能力梯队。Sol 之上还有给 Pro 的 **Sol Pro**。
+Luna 是最快、最省的那个，**不是最强的**。很多人看到 Luna（月）和 Sol（日）以为是并列的两个风格，其实是能力梯队。Sol 之上还有面向 Pro 和 Enterprise 的 **Sol Pro**。
 
 ------
 
-## 各档位能用到哪个型号（截至 2026 年 7 月 10 日）
+## 各档位能用到哪个型号（截至 2026 年 8 月 2 日）
 
 | 你的档位 | Chat 里能用的最强模型 | 想再往上要什么 |
 |---|---|---|
 | Free / Go | 用不到 Sol；ChatGPT Work / Codex 里是 Terra | 升 Plus |
 | **Plus** | **Sol**（medium 及以上 effort） | Codex 里可开 `ultra` |
-| Pro | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
-| 企业 / Enterprise | Sol + Sol Pro | — |
+| Pro 5× / 20× | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
+| Business | Sol | 无 Sol Pro；Work 里无 `ultra` |
+| Enterprise | Sol + **Sol Pro** | ChatGPT Work 里可开 `ultra` |
 
 几点补充：
 
 - **effort（思考强度）**：Plus 及以上在 Chat 里用 Sol，需要把 effort 调到 medium 或更高。
-- **`max` 模式**：只要你的档位能用 GPT-5.6，就能用 `max`。
+- **`max` 模式**：在 ChatGPT Work 和 Codex 里，只要你的档位能用 GPT-5.6，就能开 `max`。
 - **`ultra` 模式**：在 Codex 里 Plus 就能开；在 ChatGPT Work 里要 Pro 或 Enterprise。这是 Plus 和 Pro 之间少数几个硬差别之一。
-- 付费档在 ChatGPT Work 和 Codex 里可以在 Sol / Terra / Luna 之间自己选，并分别设 effort。
+- Plus、Pro、Business 和 Enterprise 在 ChatGPT Work 与 Codex 里可以在 Sol / Terra / Luna 之间自己选，并分别设 effort。
 
-> 型号是分批灰度放开的。**模型选择器里暂时看不到 GPT-5.6，不代表你的账号有问题，也不代表充值没到账。** 同一档位的账号也有先后，等轮到就会出现。这点得单独说一句：发布后头几天，为这个来问"是不是被骗了"的人特别多。
+> 官方发布时说明全球开放会在约 24 小时内逐步完成。**现在仍看不到 GPT-5.6，不要继续按"灰度还没轮到"处理**：先确认自己所在的是 Chat、ChatGPT Work 还是 Codex，再核对账号档位与 effort 设置；入口缺失本身也不能直接证明充值没有到账。
 
 ------
 
@@ -57,7 +58,7 @@ Luna 是最快、最省的那个，**不是最强的**。很多人看到 Luna（
 
 Plus 的订阅关系没有变化，GPT-5.6 Sol 是加进来的权益，不是新商品。你不需要退订重买，也不需要补差价。到期照常续费即可。
 
-唯一需要你做的事：**等灰度轮到你**，然后在模型选择器里把 effort 调到 medium 以上。
+在 Chat 里使用 Sol 时，把 effort 调到 medium 或更高；如果入口仍缺失，按上面的使用界面、账号档位和设置逐项核对。
 
 ------
 
@@ -73,7 +74,7 @@ Plus 的订阅关系没有变化，GPT-5.6 Sol 是加进来的权益，不是新
 所以判断标准很直接：
 
 - **主要在 Chat 里聊天、写东西、看文件** → Plus 就够，Sol 已经到手，升 Pro 在 GPT-5.6 这件事上买不到什么。
-- **拿它做复杂的长任务、写代码跑 agent，且已经吃满 Plus 的额度** → 再考虑 Pro。Pro 一个月 200 美元，是 Plus 的十倍，不要因为"想试试新模型"就升。
+- **拿它做复杂的长任务、写代码跑 agent，且已经吃满 Plus 的额度** → 再考虑 Pro。Pro 5× 为 $100 / 月，Pro 20× 为 $200 / 月；两档核心能力相同，主要区别是用量，不要因为"想试试新模型"就升。
 
 想更细地对比 Plus 和 Pro 的额度、适用人群，见主教程的 [Plus 用满后要不要看 Pro](../README.md#pro)。
 
@@ -103,7 +104,7 @@ Free 用户在 ChatGPT Work 和 Codex 里能用到 Terra，但在 Chat 里用不
 和 Free 一样：Work / Codex 里是 Terra，Chat 里拿不到 Sol。
 
 **Q：我充了钱，为什么模型列表里还是没有 GPT-5.6？**
-灰度还没轮到。这跟充值到没到账是两回事——先去账号设置里确认订阅状态是 Plus / Pro，是的话就只是等。
+先确认当前是在 Chat、ChatGPT Work 还是 Codex，再核对账号档位和 effort 设置。官方发布时预计全球 rollout 在约 24 小时内完成，现在不应再简单归因于"等灰度"；订阅状态正常但入口仍缺失时，以账号页面提示或官方支持答复为准。
 
 **Q：Luna 是不是最强的？**
 不是。**Luna 最弱最快，Sol 最强。** 顺序是 Luna → Terra → Sol。
@@ -116,10 +117,10 @@ Free 用户在 ChatGPT Work 和 Codex 里能用到 Terra，但在 Chat 里用不
 ## 延伸阅读
 
 - 型号能力区别、`max` / `ultra` 模式、API 价格的完整拆解：<a href="https://plusgo.pro/blog/gpt-5-6-release-guide/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">GPT-5.6 发布了吗？Sol / Terra / Luna 区别</a>
-- 灰度迟迟没轮到、入口找不到：<a href="https://plusgo.pro/blog/gpt-5-6-sol-launch/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">GPT-5.6 Sol 正式上线，看不到入口怎么办</a>
+- 入口找不到时的排查：<a href="https://plusgo.pro/blog/gpt-5-6-sol-launch/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">GPT-5.6 Sol 正式上线，看不到入口怎么办</a>
 - 拿 GPT-5.6 写代码的实际体感：<a href="https://plusgo.pro/blog/gpt-5-6-vibe-coding-10-things/?utm_source=github01&utm_campaign=gpt56" target="_blank" rel="noopener">用 GPT-5.6 做 vibe coding 的 10 件事</a>
 - 回到主教程：[ChatGPT 充值 / 代充教程](../README.md)
 
 ------
 
-> 本文的档位口径整理自 OpenAI 2026 年 7 月的公开说明，核对时间为 7 月 10 日。OpenAI 的档位权益和灰度节奏会变，具体以你账号内的实际页面提示为准。
+> 本文的档位口径整理自 OpenAI 2026 年 7 月的公开说明，核对时间为 8 月 2 日。OpenAI 的档位权益会变化，具体以你账号内的实际页面提示为准。
