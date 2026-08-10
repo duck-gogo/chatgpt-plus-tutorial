@@ -1,6 +1,6 @@
 # <p align="center">2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
 
-<p align="center">本教程最新更新时间：2026 年 8 月 10 日 · 含 OpenAI 官方资料与第三方服务比较</p>
+<p align="center">本教程最新更新时间：2026 年 8 月 11 日 · 含 OpenAI 官方资料与第三方服务比较</p>
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍及购买链接。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书。第三方付款或交付不能改变 ChatGPT 的地区可用性；使用前请核对 [OpenAI 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories) 与 [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)。
 
@@ -72,7 +72,7 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布。三个型号定位不
 - [团队 / 多人一起用：ChatGPT Business](#business)
 - [维护说明 / 更新记录](#changelog)
 
-> 更多资料：[GPT-5.6 要额外付费吗（Plus / Pro 各能用哪个型号）](./articles/gpt-5-6-which-plan.md) · [ChatGPT 充值能开发票吗（可报销 / 公对公）](./articles/chatgpt-plus-invoice-reimbursement.md) · [ChatGPT Pro 公司报销怎么入账](./articles/chatgpt-pro-company-reimbursement.md) · [没有国外信用卡怎么开通 ChatGPT Plus](./articles/chatgpt-plus-without-overseas-card.md) · [订阅页面支付异常排查](./articles/chatgpt-plus-payment-troubleshooting.md) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
+> 更多资料：[GPT-5.6 要额外付费吗（Plus / Pro 各能用哪个型号）](./articles/gpt-5-6-which-plan.md) · [OpenAI 账号被停用后的官方申诉步骤](./articles/openai-account-deactivated-appeal.md) · [ChatGPT 充值能开发票吗（可报销 / 公对公）](./articles/chatgpt-plus-invoice-reimbursement.md) · [ChatGPT Pro 公司报销怎么入账](./articles/chatgpt-pro-company-reimbursement.md) · [没有国外信用卡怎么开通 ChatGPT Plus](./articles/chatgpt-plus-without-overseas-card.md) · [订阅页面支付异常排查](./articles/chatgpt-plus-payment-troubleshooting.md) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
 
 ------
 
@@ -354,7 +354,7 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ### 9. "Your account has been deactivated" / 账号已封禁
 
-账号被停用可能涉及服务条款、可疑活动或安全机制，但不能只凭发生在充值前后就推断具体原因。按 OpenAI 页面提示通过官方支持渠道申诉，提交真实、可核对的信息；PlusGO 只能处理本平台订单和售后，不能代替 OpenAI 解封账号。
+账号被停用可能涉及服务条款、可疑活动或安全机制，但不能只凭发生在充值前后就推断具体原因。按 OpenAI 页面提示通过官方支持渠道申诉，提交真实、可核对的信息；PlusGO 只能处理本平台订单和售后，不能代替 OpenAI 解封账号。具体入口和材料见 [OpenAI 账号被停用后的官方申诉步骤](./articles/openai-account-deactivated-appeal.md)。
 
 ### 10. App 端和网页端 Plus 状态不一致
 
@@ -446,6 +446,7 @@ OpenAI 官方标准 ChatGPT 席位最低 2 席；下面是 PlusGO 当前购买�
 
 集中维护的官方资料见 [SOURCES.md](./SOURCES.md)。
 
+- 2026-08-11：新增 OpenAI 账号停用原因与官方申诉专文，并补充 Pro 5× / 20× 的切换和计费生效规则。
 - 2026-08-10：补充 Free / Go 文本聊天与工具限额边界、Business 席位计费及 Codex-only 席位变化，新增 Codex 选档说明，并清理虚拟卡、App Store、3D Secure 和共享账号的无依据绝对表述。
 - 2026-08-02：修正 Pro 两档（$100 / 5×、$200 / 20×）、Business 官方最低 2 个标准席位与 PlusGO 当前 5–50 席渠道口径，并更新 GPT-5.6 的 Business / Enterprise 权益和发布后排查提示。
 - 2026-07-20：新增 [ChatGPT Business（团队版）](#business) 区块——面向多人团队 / 公司统一采购与报销，说明 PlusGO 渠道按席位（5 席起、最多 50 席）开通、支付宝 / 微信付款、可对公开发票；方法二档位列表与 FAQ 同步补入 Business。

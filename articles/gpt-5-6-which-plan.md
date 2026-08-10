@@ -1,6 +1,6 @@
 # GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号（2026）
 
-> 最近更新：2026 年 8 月 10 日
+> 最近更新：2026 年 8 月 11 日
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；GPT-5.6 权益以 OpenAI 官方说明和账号页面为准。
 
@@ -33,7 +33,7 @@ GPT-5.6 在 2026 年 7 月 9 日正式公开发布，接着就是一大堆人问
 
 ------
 
-## 各档位能用到哪个型号（截至 2026 年 8 月 10 日）
+## 各档位能用到哪个型号（截至 2026 年 8 月 11 日）
 
 | 你的档位 | 标准 ChatGPT 对话中的 GPT-5.6 | 其他入口与说明 |
 |---|---|---|
@@ -86,6 +86,31 @@ Plus 的订阅关系没有变化，GPT-5.6 Sol 是加进来的权益，不是新
 
 ------
 
+## Pro 5× 和 20× 怎么选？能否中途切换？
+
+OpenAI 当前提供两个 Pro 档位：
+
+| 对比项 | Pro 5× | Pro 20× |
+|---|---|---|
+| 官方价格 | $100 / 月 | $200 / 月 |
+| 核心能力 | 与 20× 相同 | 与 5× 相同 |
+| 整体用量 | 相对 Plus 为 5× | 相对 Plus 为 20× |
+| 更适合 | 已经需要 Pro 能力，但用量相对可控 | 长时间运行复杂任务、经常触及 5× 限额 |
+
+这里的 5× / 20× 是 OpenAI 对方案用量的总体描述，不应理解为每个模型都有一套完全相同的固定次数。官方说明还指出，部分模型有单独额度，不同 Pro 档位的额度可能不同；到达上限时，应以 ChatGPT 显示的重置时间为准。
+
+**两档可以中途切换，不是买定后只能全价重买。** 在 `Settings → My Plan` 中可以随时更改：
+
+- 从 5× 升到 20×：新档位立即生效，账单周期重新开始，系统会自动处理计费调整；
+- 从 20× 降到 5×：在下次续费时生效，当前周期内继续保留 20×；
+- 取消订阅：当前计费周期结束前仍可使用，到期后不再续费。
+
+选择时可以先问自己两个问题：是否明确需要 Pro 的 Extra High / Sol Pro，以及过去是否经常触及较低档位的额度。用量无法确定时，5× 的总支出更低；已经稳定跑重任务并频繁到达上限时，再考虑 20×。20× 的名义单位额度更低，但只有实际能用到这些额度时才有意义。
+
+官方依据：[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)
+
+------
+
 ## 国内怎么开通（没有海外信用卡）
 
 结论在上面已经给了：要用 Sol，账号至少得是 Plus。国内的麻烦从来不在"要不要升"，而在"怎么付得出去"。
@@ -118,6 +143,9 @@ Go 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna 默认体验，Think 也使用
 **Q：Plus 能用 Extra High 或 Sol Pro 吗？**
 不能。Plus 当前包含 Sol 的 Medium、High；Extra High 和 Sol Pro 包含在 Pro、Business 和 Enterprise。
 
+**Q：Pro 5× 买完后可以切换到 20× 吗？**
+可以。OpenAI 当前说明两档可随时在 `Settings → My Plan` 中切换；升级立即生效并重启账单周期，降档在下次续费时生效，计费调整由系统自动处理。
+
 **Q：为了用 Codex，一定要升 Pro 吗？**
 不需要。Plus 已包含 Codex 以及 GPT-5.6 Sol、Terra、Luna；Pro 主要提供 5× 或 20× 的更高 Codex 使用额度，并额外包含当前为 Pro 专属的 GPT-5.3-Codex-Spark 研究预览。研究预览和额度可能变化，购买前应核对 [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)。
 
@@ -126,10 +154,11 @@ Go 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna 默认体验，Think 也使用
 ## 延伸阅读
 
 - 官方档位、入口和回退说明：[GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt)
+- Pro 5× / 20× 权益与切换规则：[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)
 - ChatGPT 更新记录：[ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 - Work / Codex 型号和用量：[ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)
 - 回到主教程：[ChatGPT 充值 / 代充教程](../README.md)
 
 ------
 
-> 本文的档位口径整理自 OpenAI 公开说明，核对时间为 2026 年 8 月 10 日。OpenAI 的档位权益会变化，具体以官方页面和你账号内的实际提示为准。
+> 本文的档位口径整理自 OpenAI 公开说明，核对时间为 2026 年 8 月 11 日。OpenAI 的档位权益会变化，具体以官方页面和你账号内的实际提示为准。

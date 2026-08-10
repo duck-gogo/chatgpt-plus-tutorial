@@ -1,6 +1,6 @@
 # 官方资料索引
 
-> 最近核对：2026 年 8 月 10 日
+> 最近核对：2026 年 8 月 11 日
 
 本页集中记录教程中涉及的官方事实来源。产品名称、价格、额度、支持地区和计费规则都可能变化；正文与本页冲突时，以官方页面和账号内实际显示为准。
 
@@ -8,7 +8,7 @@
 
 - [GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt)：GPT-5.6 的方案可用性、模型选择器、Free / Go 与 Sol 的边界。
 - [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)：Free / Go 的 Luna、文本聊天、Think 与工具限额更新。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)：Pro 5× / 20× 方案说明。
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)：Pro 5× / 20× 权益、用量、切换与计费生效规则。
 - [What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business)：标准席位、Codex-only 席位、价格和新增席位计费时间。
 - [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)：Codex 方案、模型、研究预览和用量说明。
 
@@ -22,6 +22,9 @@
 
 ## 账号、品牌与凭证
 
+- [Why Was My OpenAI Account Deactivated?](https://help.openai.com/en/articles/10562188)：账号停用的五类原因、官方申诉顺序和建议材料。
+- [OpenAI 官方申诉表单](https://openai.com/form/appeal/)：无法访问停用通知邮件时使用的申诉入口。
+- [OpenAI Account Sharing Policy](https://help.openai.com/en/articles/10471989-openai-account-sharing-policy)：个人账号、多个自有设备与凭据共享边界。
 - [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)：个人账号凭据和账号共享规则。
 - [OpenAI Brand Guidelines](https://openai.com/brand/)：品牌使用及不得暗示官方背书的要求。
 
