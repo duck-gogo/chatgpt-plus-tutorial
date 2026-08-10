@@ -12,7 +12,7 @@
 
 **常见原因：** 用户当前所在国家或地区不在 OpenAI 最新支持列表中。中国大陆、香港目前未列入 ChatGPT 支持国家和地区列表。
 
-官方依据：[ChatGPT 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) · [不支持地区的服务与付款说明](https://help.openai.com/en/articles/9131992-chatgpt-and-api-services-in-unsupported-countries-and-territories)
+官方依据：[ChatGPT 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories) · [不支持地区的服务与付款说明](https://help.openai.com/en/articles/9131992-chatgpt-and-api-services-in-unsupported-countries-and-territories)
 
 **怎么排查：**
 
