@@ -1,6 +1,6 @@
 # <p align="center">2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
 
-<p align="center">本教程最新更新时间：2026 年 8 月 11 日 · 含 OpenAI 官方资料与第三方服务比较</p>
+<p align="center">本教程最新更新时间：2026 年 8 月 17 日 · 含 OpenAI 官方资料与第三方服务比较</p>
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍及购买链接。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书。第三方付款或交付不能改变 ChatGPT 的地区可用性；使用前请核对 [OpenAI 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories) 与 [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)。
 
@@ -31,23 +31,23 @@
 
 GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布。三个型号定位不同：**Luna** 侧重速度和低成本，**Terra** 平衡能力、速度与成本，**Sol** 面向更复杂的工作；Sol Pro 是困难任务和长流程的最高能力选项。
 
-不少人第一反应是"是不是得再买一次"。先看你现在的档位能拿到什么（截至 2026 年 8 月 10 日）：
+不少人第一反应是"是不是得再买一次"。先看你现在的档位能拿到什么（截至 2026 年 8 月 17 日）：
 
 | 你的档位 | 标准 ChatGPT 对话中的 GPT-5.6 | 说明 |
 |---|---|---|
-| Free / Go | Luna 正逐步成为默认体验；Think 也由 Luna 提供 | 不包含 GPT-5.6 Sol；Codex 可使用 Terra |
-| **Plus** | Sol 的 Medium、High | 不包含 Extra High 和 Sol Pro |
-| Pro 5× / 20× | Sol 的 Medium、High、Extra High，以及 **Sol Pro** | 两档核心能力相同，主要区别是用量 |
-| Business | Medium、High、Extra High，以及 **Sol Pro** | 管理员可能控制成员权限 |
-| Enterprise | Medium、High、Extra High，以及 **Sol Pro** | 管理员权限和实际开放进度可能影响显示 |
+| Free / Go | Luna 正逐步成为默认体验；Instant、Think 均由 Luna 提供 | 不包含 GPT-5.6 Sol；Codex 可使用 Terra，ChatGPT Work 仅提供受限使用 |
+| **Plus** | Sol 的 Instant、Medium、High | 不包含 Extra High 和 Sol Pro |
+| Pro 5× / 20× | Sol 的 Instant、Medium、High、Extra High，以及 **Sol Pro** | 两档核心能力相同，主要区别是用量 |
+| Business | Sol 的 Instant、Medium、High、Extra High，以及 **Sol Pro** | 管理员可能控制成员权限 |
+| Enterprise | Sol 的 Instant、Medium、High、Extra High，以及 **Sol Pro** | 管理员权限和实际开放进度可能影响显示 |
 
 > **模型选择器里看不到 GPT-5.6，不代表账号有问题，也不代表充值没到账。** OpenAI 当前仍将 GPT-5.6 标记为逐步开放；先确认自己所在的是 Chat、ChatGPT Work 还是 Codex，并核对账号档位、工作区权限和页面提示。
 
 官方依据：[GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt) · [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)
 
-> **Free / Go 限额边界：** OpenAI 8 月 6 日的更新说明称，自 8 月 10 日当周起逐步提供不限量文本聊天和 Think（仍受滥用防护约束）；文件上传、图片和其他工具仍有限额。Think 本身也可能有单独额度，例如当前 Go 页面显示每 5 小时最多 10 条。以账号页面显示为准。
+> **Free / Go 限额边界：** OpenAI 当前说明 Free / Go 可不限量进行日常文本聊天（仍受防滥用保护）；文件上传、图像生成、语音、数据分析和其他工具另有额度。Think 使用 Luna，具体推理额度以账号页面显示为准。
 
-所以结论很简单：**已经是 Plus 的不用额外付费**，Chat 里可以使用 Sol 的 Medium、High；Free 和 Go 的标准 ChatGPT 不包含 GPT-5.6 Sol，Luna 正逐步成为默认体验并为 Think 提供能力。这块展开讲在 [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号](./articles/gpt-5-6-which-plan.md)。
+所以结论很简单：**已经是 Plus 的不用额外付费**，Chat 里的 Instant、Medium、High 均由 Sol 驱动；Free 和 Go 的标准 ChatGPT 不包含 GPT-5.6 Sol，Instant 和 Think 均由 Luna 提供。这块展开讲在 [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号](./articles/gpt-5-6-which-plan.md)。
 
 型号、入口和档位差异应以 [GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt) 与账号内实际页面为准。没有可用信用卡 / 借记卡时，可以比较 [直接订阅](#method-card)、[第三方自助代充](#method-topup) 和 [App Store 内购](#method-ios) 的条件与风险。
 
