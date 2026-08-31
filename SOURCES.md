@@ -1,6 +1,6 @@
 # 官方资料索引
 
-> 最近核对：2026 年 8 月 31 日
+> 最近核对：2026 年 9 月 1 日
 
 本页集中记录教程中涉及的官方事实来源。产品名称、价格、额度、支持地区和计费规则都可能变化；正文与本页冲突时，以官方页面和账号内实际显示为准。
 
@@ -12,6 +12,8 @@
 - [What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business)：Standard / Premium 席位、价格、用量与工作区规则。
 - [Managing billing and seats in ChatGPT Business](https://help.openai.com/en/articles/8792536)：两席起购、混合席位、新增席位计费与 200 席上限。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)：Free / Go 的 Codex 可用性、GPT-5.4 / mini 迁移及使用上限处理。
+- [Using Credits for Flexible Usage in ChatGPT (Personal plans)](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)：点数购买资格、扣费顺序、适用功能、有效期和退款边界。
+- [How banked Codex resets work](https://help.openai.com/en/articles/20001498-how-banked-codex-resets-work)：Banked Reset 的使用、有效期、与自动重置 / 点数的区别及 Support 边界。
 - [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)：Codex 方案、模型、研究预览和用量说明。
 
 ## 地区、付款与订阅管理
@@ -29,6 +31,7 @@
 - [OpenAI Account Sharing Policy](https://help.openai.com/en/articles/10471989-openai-account-sharing-policy)：个人账号、多个自有设备与凭据共享边界。
 - [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)：个人账号凭据和账号共享规则。
 - [OpenAI Brand Guidelines](https://openai.com/brand/)：品牌使用及不得暗示官方背书的要求。
+- [OpenAI Status](https://status.openai.com/)：回答、文件或工具异常时核对公开服务状态。
 
 ## 财税参考
 

@@ -1,6 +1,6 @@
 # ChatGPT 充值 / 代充常见问题 FAQ（2026）
 
-> 最近更新：2026 年 8 月 31 日
+> 最近更新：2026 年 9 月 1 日
 
 > **广告 / 商业披露：** 本页包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；使用第三方服务前应核对支持地区、账号凭证和售后条款。
 
@@ -82,7 +82,14 @@
 
 ### Q：ChatGPT 或 Codex 用量到顶后，OpenAI 客服能帮我重置吗？
 
-不能。OpenAI Support 不会代为重置 ChatGPT 或 Codex 使用上限。先查看账号页面显示的重置时间，等待重置或使用页面提供的其他选项；如果怀疑计量错误，或显示的重置时间过后仍未恢复，可以联系 Support 调查。官方说明见 [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)。
+不能要求客服手动或礼貌性地重置 ChatGPT / Codex 使用上限。先看 Usage 页面提供哪种选项：
+
+- **正常周期重置**：等账号显示的时间自动恢复；
+- **Banked Reset**：可能发到账号的一次性促销权益，需要手动使用且可能过期，不是购买的点数；
+- **Automatic / Global Reset**：OpenAI 直接应用到符合条件的额度，不会保存成待用 Reset；
+- **Credits / 点数**：套餐用量耗尽后的额外按量余额，购买资格和金额以账号页面为准。
+
+如果怀疑计量错误、符合资格的 Reset 缺失，或显示的重置时间过后仍未恢复，可以联系 Support 调查；提交工单本身不等于会获得额外 Reset、点数或补偿。详细区别见 [Codex 点数充值、Reset 与 Pro 怎么选](../articles/codex-credits-recharge-guide.md)，官方说明见 [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540) 和 [How banked Codex resets work](https://help.openai.com/en/articles/20001498-how-banked-codex-resets-work)。
 
 ------
 

@@ -7,6 +7,7 @@
 ## 目录
 
 - [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号（2026）](./gpt-5-6-which-plan.md)
+- [Codex 点数怎么充值？额度用完后的选择与注意事项（2026）](./codex-credits-recharge-guide.md)
 - [OpenAI 账号被停用怎么办？ChatGPT 封号原因与官方申诉步骤（2026）](./openai-account-deactivated-appeal.md)
 - [ChatGPT Plus / Pro 充值能开发票吗？国内如何拿到可报销的增值税发票（2026）](./chatgpt-plus-invoice-reimbursement.md)
 - [ChatGPT Pro 公司报销怎么入账？发票、走账、会计科目全流程（2026）](./chatgpt-pro-company-reimbursement.md)
