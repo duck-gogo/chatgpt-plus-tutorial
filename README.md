@@ -1,6 +1,6 @@
 # <p align="center">2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
 
-<p align="center">本教程最新更新时间：2026 年 8 月 17 日 · 含 OpenAI 官方资料与第三方服务比较</p>
+<p align="center">本教程最新更新时间：2026 年 8 月 31 日 · 含 OpenAI 官方资料与第三方服务比较</p>
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍及购买链接。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书。第三方付款或交付不能改变 ChatGPT 的地区可用性；使用前请核对 [OpenAI 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories) 与 [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)。
 
@@ -310,7 +310,7 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ### Q10：团队里好几个人都要用，是每人开一个 Plus 还是上 Business？
 
-看人数，也看是否需要统一工作区、成员管理和集中结算。OpenAI 官方的 Business 标准 ChatGPT 席位**最低 2 席**，参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**，并同时包含 ChatGPT 与 Codex。自 2026 年 8 月 19 日起，新增付费席位会立即按当前账期剩余时间比例扣款。PlusGO 当前 Business 渠道为 **5 席起、最多 50 席**；这是第三方渠道规则，不等同于 OpenAI 官方计费和席位规则。展开见上面 [团队 / 多人一起用：要不要上 ChatGPT Business](#business)。
+看人数，也看是否需要统一工作区、成员管理和集中结算。OpenAI 官方的 Business 工作区**至少需要 2 个付费席位**，可以全选 Standard、全选 Premium，或混合两种席位。Standard 参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**；Premium 为月付 **$125 / 席 / 月**、年付折算 **$100 / 席 / 月**，包含 Standard 的全部能力、5× 使用量且没有 5 小时使用限制。新增付费席位会立即按当前账期剩余时间比例扣款。自 2026 年 8 月 24 日起，新建 Business 工作区最多购买 200 个 Standard 与 Premium 付费席位，较早创建的工作区保留原有上限。PlusGO 当前 Business 渠道支持 Standard / Premium **月付 5–15 席**，年付需联系客服确认；这是第三方渠道规则，不等同于 OpenAI 官方计费和席位规则。展开见上面 [团队 / 多人一起用：要不要上 ChatGPT Business](#business)。
 
 ------
 
@@ -389,13 +389,18 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ## Codex 用 Plus 还是 Pro
 
-Codex 已包含在符合条件的 ChatGPT 方案中，不需要为了“能不能用 Codex”直接上 Pro：
+Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；不同方案的使用额度不同，不需要为了“能不能用 Codex”直接上 Pro：
 
+- **Free / Go**：包含受限的 Codex 使用，可使用 GPT-5.6 Terra；适合先体验或偶尔处理轻量编码任务。
 - **Plus**：包含 Codex 的网页、CLI、IDE 扩展和 iOS 入口，并可使用 GPT-5.6 Sol、Terra、Luna；适合每周几次集中编码任务。
 - **Pro 5× / 20×**：主要增加相对 Plus 的 Codex 使用额度；当前还包含 Pro 专属的 **GPT-5.3-Codex-Spark 研究预览**。
 - **API Key**：属于单独的按量计费路径，不继承 ChatGPT 订阅额度，也不包含 GitHub 代码审查等云端订阅功能。
 
-研究预览、模型和额度都可能变化；选择时以账号页面和 [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing) 为准，不要只为一个预览模型长期升级。
+> **2026 年 8 月 31 日模型迁移：** 使用 ChatGPT 账号登录 Codex 时，GPT-5.4 和 GPT-5.4 mini 已不再可用。工作区默认值、保存的模型设置、托管配置或自动化应分别改用 **GPT-5.6 Terra** 和 **GPT-5.6 Luna**。这不影响 OpenAI API，也不影响使用自有 API Key 的 Codex。
+
+达到 ChatGPT 或 Codex 使用上限时，应查看账号显示的重置时间，等待重置或使用页面提供的其他选项；OpenAI Support 不会代为重置使用上限。如果计量看起来有误，或显示的重置时间过后仍未恢复，可以联系 Support 调查。
+
+研究预览、模型和额度都可能变化；选择时以账号页面、[Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540) 和 [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing) 为准，不要只为一个预览模型长期升级。
 
 ------
 
@@ -408,13 +413,16 @@ Codex 已包含在符合条件的 ChatGPT 方案中，不需要为了“能不�
 **它和 Plus 差在哪：**
 
 - **按席位买、多人协作**：一个工作区里拉进多个成员，管理员统一加人 / 减人，不用每个人各自守一个号；
-- **官方按人头计价**：标准 ChatGPT 席位最低 2 席；参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**；
+- **官方至少 2 个付费席位**：可以全部选择 Standard、全部选择 Premium，或混合两种席位；
+- **Standard 价格**：参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**；
+- **Premium 价格与用量**：月付 **$125 / 席 / 月**、年付折算 **$100 / 席 / 月**，包含 Standard 的全部能力、5× 使用量且没有 5 小时使用限制；
+- **官方席位上限**：自 2026 年 8 月 24 日起，新建 Business 工作区最多购买 200 个 Standard 与 Premium 付费席位；更早创建的工作区保留原有上限，超过当前上限的团队应评估 Enterprise；
 - **新增席位计费时间**：自 2026 年 8 月 19 日起，OpenAI 自助 Business 新增付费席位会立即按当前账期剩余时间比例扣款；
-- **标准席位同时包含 ChatGPT 与 Codex**：新 Business 工作区自 2026 年 6 月 24 日起不能再新增按用量计费的 Codex-only 席位；此前已添加或有待处理邀请的工作区可继续管理这类席位；
+- **Standard 与 Premium 均包含 ChatGPT 与 Codex**：新 Business 工作区自 2026 年 6 月 24 日起不能再新增按用量计费的 Codex-only 席位；此前已添加或有待处理邀请的工作区可继续管理这类席位；
 - **数据默认不用于模型训练**：团队和公司场景通常更在意这一点；
-- **集中结算**：标准席位由工作区统一计费；如果需要 invoice billing、采购订单或银行转账等企业采购方式，OpenAI 建议使用签约方案，而不是自行假设自助 Business 支持。
+- **集中结算**：付费席位由工作区统一计费；如果需要 invoice billing、采购订单或银行转账等企业采购方式，OpenAI 建议使用签约方案，而不是自行假设自助 Business 支持。
 
-官方依据：[What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business)
+官方依据：[What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business) · [Managing billing and seats in ChatGPT Business](https://help.openai.com/en/articles/8792536)
 
 **适合谁 / 不适合谁：**
 
@@ -423,14 +431,14 @@ Codex 已包含在符合条件的 ChatGPT 方案中，不需要为了“能不�
 
 **第三方 Business 渠道示例：**
 
-OpenAI 官方标准 ChatGPT 席位最低 2 席；下面是 PlusGO 当前购买渠道的规则和流程：
+OpenAI 官方 Business 工作区至少需要 2 个 Standard / Premium 付费席位；下面是 PlusGO 当前购买渠道的规则和流程：
 
-1. 先想清楚要开几个席位——PlusGO 当前渠道为 **5 席起、最多 50 席**，按你选的席位数计费；
-2. 在代充平台选 ChatGPT Business，填席位数，页面会实时把总额算出来；
+1. 先想清楚要开几个席位——PlusGO 当前渠道为 **5 席起、最多 15 席**，按你选的席位数计费；
+2. 在代充平台选择 Standard 标准版或 Premium 高级版，再填席位数；两种版本的月付支持在线下单，年付需联系客服确认；
 3. 支付宝 / 微信扫码付款；需要对公付款、开发票的，下单后带订单号联系客服说明抬头和税号；
 4. 开通方案由**专人对接确认**，付完保存订单号，有问题凭订单号找售后。
 
-以 PlusGO 当前购买页为例，其 Business 渠道支持按席位下单、支付宝 / 微信付款、对公与开票，并说明失败订单原路退款。这些属于第三方渠道条款，不等同于 OpenAI 官方 Business 的计费、席位或退款规则；个人使用者通常无需为了团队管理功能选择 Business。
+以 PlusGO 当前购买页为例，其 Business 渠道支持 Standard / Premium 月付 5–15 席在线下单、支付宝 / 微信付款、对公与开票，并说明失败订单原路退款；年付暂不开放在线下单。这些属于第三方渠道条款，不等同于 OpenAI 官方 Business 的计费、席位或退款规则；个人使用者通常无需为了团队管理功能选择 Business。
 
 > 💡 团队采购前先让财务确认采购主体、付款方式、发票或 invoice、订单和合同要求。第三方渠道提供的对公与开票能力不等同于 OpenAI 自助 Business。凭证怎么准备见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
 
@@ -446,6 +454,7 @@ OpenAI 官方标准 ChatGPT 席位最低 2 席；下面是 PlusGO 当前购买�
 
 集中维护的官方资料见 [SOURCES.md](./SOURCES.md)。
 
+- 2026-08-31：更新 Business Premium 价格、用量、混合席位与 200 席上限，修正 PlusGO 当前 Standard / Premium 月付 5–15 席口径；补充 Free / Go 的受限 Codex、GPT-5.4 / mini 迁移和 Support 不重置用量限制说明。
 - 2026-08-11：新增 OpenAI 账号停用原因与官方申诉专文，并补充 Pro 5× / 20× 的切换和计费生效规则。
 - 2026-08-10：补充 Free / Go 文本聊天与工具限额边界、Business 席位计费及 Codex-only 席位变化，新增 Codex 选档说明，并清理虚拟卡、App Store、3D Secure 和共享账号的无依据绝对表述。
 - 2026-08-02：修正 Pro 两档（$100 / 5×、$200 / 20×）、Business 官方最低 2 个标准席位与 PlusGO 当前 5–50 席渠道口径，并更新 GPT-5.6 的 Business / Enterprise 权益和发布后排查提示。

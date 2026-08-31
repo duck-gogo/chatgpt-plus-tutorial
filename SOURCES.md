@@ -1,6 +1,6 @@
 # 官方资料索引
 
-> 最近核对：2026 年 8 月 11 日
+> 最近核对：2026 年 8 月 31 日
 
 本页集中记录教程中涉及的官方事实来源。产品名称、价格、额度、支持地区和计费规则都可能变化；正文与本页冲突时，以官方页面和账号内实际显示为准。
 
@@ -9,7 +9,9 @@
 - [GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt)：GPT-5.6 的方案可用性、模型选择器、Free / Go 与 Sol 的边界。
 - [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)：Free / Go 的 Luna、文本聊天、Think 与工具限额更新。
 - [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)：Pro 5× / 20× 权益、用量、切换与计费生效规则。
-- [What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business)：标准席位、Codex-only 席位、价格和新增席位计费时间。
+- [What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business)：Standard / Premium 席位、价格、用量与工作区规则。
+- [Managing billing and seats in ChatGPT Business](https://help.openai.com/en/articles/8792536)：两席起购、混合席位、新增席位计费与 200 席上限。
+- [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)：Free / Go 的 Codex 可用性、GPT-5.4 / mini 迁移及使用上限处理。
 - [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)：Codex 方案、模型、研究预览和用量说明。
 
 ## 地区、付款与订阅管理

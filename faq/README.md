@@ -1,6 +1,6 @@
 # ChatGPT 充值 / 代充常见问题 FAQ（2026）
 
-> 最近更新：2026 年 8 月 10 日
+> 最近更新：2026 年 8 月 31 日
 
 > **广告 / 商业披露：** 本页包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；使用第三方服务前应核对支持地区、账号凭证和售后条款。
 
@@ -78,7 +78,11 @@
 
 ### Q：Plus 和 Pro 怎么选？
 
-大多数普通用户先从 Plus 开始就够了。Pro 更适合每天高频重度使用 ChatGPT 或 Codex、经常被额度或任务长度打断的人。Codex 已包含在 Plus；Pro 主要增加 5× / 20× 使用额度，并提供当前 Pro 专属的 GPT-5.3-Codex-Spark 研究预览。详细判断标准见 [主教程：Plus 用满后要不要看 Pro](../README.md#pro) 和 [Codex 用 Plus 还是 Pro](../README.md#codex)。
+大多数普通用户先从 Plus 开始就够了。Codex 已包含在所有 ChatGPT 方案中，Free 和 Go 也有受限使用；Plus 提供更大的使用空间，Pro 更适合每天高频重度使用 ChatGPT 或 Codex、经常被额度或任务长度打断的人。Pro 主要增加相对 Plus 的 5× / 20× 使用额度，并提供当前 Pro 专属的 GPT-5.3-Codex-Spark 研究预览。自 2026 年 8 月 31 日起，使用 ChatGPT 账号登录 Codex 时，应以 GPT-5.6 Terra 替代 GPT-5.4、以 GPT-5.6 Luna 替代 GPT-5.4 mini；API 和使用自有 API Key 的 Codex 不受影响。详细判断标准见 [主教程：Plus 用满后要不要看 Pro](../README.md#pro)、[Codex 用 Plus 还是 Pro](../README.md#codex) 和 [OpenAI 官方 Codex 方案说明](https://help.openai.com/en/articles/11369540)。
+
+### Q：ChatGPT 或 Codex 用量到顶后，OpenAI 客服能帮我重置吗？
+
+不能。OpenAI Support 不会代为重置 ChatGPT 或 Codex 使用上限。先查看账号页面显示的重置时间，等待重置或使用页面提供的其他选项；如果怀疑计量错误，或显示的重置时间过后仍未恢复，可以联系 Support 调查。官方说明见 [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)。
 
 ------
 
