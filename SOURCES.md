@@ -1,11 +1,14 @@
 # 官方资料索引
 
-> 最近核对：2026 年 9 月 1 日
+> 最近增补核对：2026 年 9 月 6 日（Astra、Pro 与 Work / Codex 用量；其他条目保留原核对范围）
 
 本页集中记录教程中涉及的官方事实来源。产品名称、价格、额度、支持地区和计费规则都可能变化；正文与本页冲突时，以官方页面和账号内实际显示为准。
 
 ## 模型、方案与 Codex
 
+- [ChatGPT / Codex 更新摘要](https://learn.chatgpt.com/docs/whats-new)：2026 年 8 月 31 日至 9 月 4 日的 Astra 更新、任务定位与账号开放提醒。
+- [ChatGPT Work / Codex 模型说明](https://learn.chatgpt.com/docs/models)：Astra 与 GPT-5.6 的模型入口、推理选项、客户端及开放进度。
+- [Enterprise 的 Astra 模型可用性](https://learn.chatgpt.com/docs/enterprise/workspace-model-availability#gpt-6-astra-in-enterprise)：组织开放资格、管理员启用与客户端权限边界。
 - [GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt)：GPT-5.6 的方案可用性、模型选择器、Free / Go 与 Sol 的边界。
 - [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)：Free / Go 的 Luna、文本聊天、Think 与工具限额更新。
 - [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)：Pro 5× / 20× 权益、用量、切换与计费生效规则。
@@ -14,7 +17,7 @@
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)：Free / Go 的 Codex 可用性、GPT-5.4 / mini 迁移及使用上限处理。
 - [Using Credits for Flexible Usage in ChatGPT (Personal plans)](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)：点数购买资格、扣费顺序、适用功能、有效期和退款边界。
 - [How banked Codex resets work](https://help.openai.com/en/articles/20001498-how-banked-codex-resets-work)：Banked Reset 的使用、有效期、与自动重置 / 点数的区别及 Support 边界。
-- [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)：Codex 方案、模型、研究预览和用量说明。
+- [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)：Pro 5× / 20×、Astra 用量、Work 与 Codex 共享计量、研究预览和组织功能；不将本地消息估算写成普通 Chat 的固定上限。
 
 ## 地区、付款与订阅管理
 

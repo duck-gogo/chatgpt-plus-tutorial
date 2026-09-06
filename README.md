@@ -1,6 +1,6 @@
-# <p align="center">2026 年 ChatGPT 充值 / 代充教程：支付宝、微信开通 GPT-5.6、ChatGPT Plus、Pro、Go、Codex</p>
+# <p align="center">2026 年 ChatGPT Plus / Pro 充值代充教程：GPT-6 Astra 选档、支付宝 / 微信付款与企业采购</p>
 
-<p align="center">本教程最新更新时间：2026 年 9 月 1 日 · 含 OpenAI 官方资料与第三方服务比较</p>
+<p align="center">本教程最新更新时间：2026 年 9 月 6 日 · 含 OpenAI 官方资料与第三方服务比较</p>
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍及购买链接。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书。第三方付款或交付不能改变 ChatGPT 的地区可用性；使用前请核对 [OpenAI 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories) 与 [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)。
 
@@ -8,54 +8,18 @@
 
 **建议收藏 + Star 本 ChatGPT 充值教程，方便随时回来查，也防止丢失。**
 
-这篇汇总当前常见的 ChatGPT 订阅方式、支付失败排查和第三方服务风险。银行卡被拒、支付页转圈或验证失败时，应先核对支持地区、发卡机构、账单信息和页面原始提示，再决定是否更换付款渠道。
+每天用 ChatGPT 或 Codex 做项目，我会先比较套餐的使用空间，再选付款方式。轻量写作、问答可以看 Plus；已经明确需要持续运行复杂任务，可以直接比较 Pro 5× / 20×；由公司付款的，还要提前确认账号安排、报价和凭证要求。
 
-如果你想了解支付宝或微信付款的第三方方案，可以直接跳到 [方法二：第三方自助代充平台](#method-topup)。这类方案通常需要第三方处理账号会话或订阅交付，应先看清账号凭证、支持地区和售后边界。
-
-------
-
-## 国内给 ChatGPT 充值，经常会卡在哪些地方？
-
-- **银行卡 / 信用卡可能被拒**：是否能完成付款取决于 OpenAI 当前支持地区、付款页面、发卡机构、卡片状态和账单信息，不能只凭 Visa、Mastercard 或发卡地区下结论。
-- **支付页面打不开、一直转圈**：点了 Upgrade to Plus 之后，Stripe 支付窗口加载半天弹不出来。
-- **不清楚 ChatGPT 代充和自己充值有什么区别**：第三方代充可以提供本地付款和订单售后，但部分流程会接触临时会话凭证，账号与条款风险不同于自己订阅。
-- **充值后能不能稳定续费、会不会封号**：充值不只是付款成功，还包括 Plus / Pro 权益是否正常到账、后续使用是否稳定。
-
-下面按付款条件、账号凭证、订单售后和适用场景比较四类方式。
-
-------
-
-<a id="gpt-5-6"></a>
-
-## GPT-5.6 已发布（7 月 9 日）：哪个档位才能用上？
-
-GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布。三个型号定位不同：**Luna** 侧重速度和低成本，**Terra** 平衡能力、速度与成本，**Sol** 面向更复杂的工作；Sol Pro 是困难任务和长流程的最高能力选项。
-
-不少人第一反应是"是不是得再买一次"。先看你现在的档位能拿到什么（截至 2026 年 8 月 17 日）：
-
-| 你的档位 | 标准 ChatGPT 对话中的 GPT-5.6 | 说明 |
-|---|---|---|
-| Free / Go | Luna 正逐步成为默认体验；Instant、Think 均由 Luna 提供 | 不包含 GPT-5.6 Sol；Codex 可使用 Terra，ChatGPT Work 仅提供受限使用 |
-| **Plus** | Sol 的 Instant、Medium、High | 不包含 Extra High 和 Sol Pro |
-| Pro 5× / 20× | Sol 的 Instant、Medium、High、Extra High，以及 **Sol Pro** | 两档核心能力相同，主要区别是用量 |
-| Business | Sol 的 Instant、Medium、High、Extra High，以及 **Sol Pro** | 管理员可能控制成员权限 |
-| Enterprise | Sol 的 Instant、Medium、High、Extra High，以及 **Sol Pro** | 管理员权限和实际开放进度可能影响显示 |
-
-> **模型选择器里看不到 GPT-5.6，不代表账号有问题，也不代表充值没到账。** OpenAI 当前仍将 GPT-5.6 标记为逐步开放；先确认自己所在的是 Chat、ChatGPT Work 还是 Codex，并核对账号档位、工作区权限和页面提示。
-
-官方依据：[GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt) · [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)
-
-> **Free / Go 限额边界：** OpenAI 当前说明 Free / Go 可不限量进行日常文本聊天（仍受防滥用保护）；文件上传、图像生成、语音、数据分析和其他工具另有额度。Think 使用 Luna，具体推理额度以账号页面显示为准。
-
-所以结论很简单：**已经是 Plus 的不用额外付费**，Chat 里的 Instant、Medium、High 均由 Sol 驱动；Free 和 Go 的标准 ChatGPT 不包含 GPT-5.6 Sol，Instant 和 Think 均由 Luna 提供。这块展开讲在 [GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号](./articles/gpt-5-6-which-plan.md)。
-
-型号、入口和档位差异应以 [GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt) 与账号内实际页面为准。没有可用信用卡 / 借记卡时，可以比较 [直接订阅](#method-card)、[第三方自助代充](#method-topup) 和 [App Store 内购](#method-ios) 的条件与风险。
+这份教程整理 Astra 发布后的套餐选择、个人订阅与企业采购、支付方法和常见排障。已选好套餐、只想了解支付宝或微信付款，可以跳到 [第三方自助代充](#method-topup)，先看账号凭证、支持地区和售后边界。
 
 ------
 
 ## 📚 目录
 
-- [GPT-5.6 已发布：哪个档位才能用上](#gpt-5-6)
+- [GPT-6 Astra 发布后，先看什么](#astra)
+- [Plus、Pro 5× / 20×、Business 怎么选](#plans)
+- [Pro 5× / 20×：用量、价格与换档提醒](#pro)
+- [公司统一采购 Plus / Pro / Business](#enterprise)
 - [先说结论（一句话）](#summary)
 - [方法一：信用卡 / 借记卡直接订阅](#method-card)
 - [方法二：第三方自助代充平台](#method-topup)
@@ -67,12 +31,79 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布。三个型号定位不
 - [第三方平台自检清单](#checklist)
 - [2026 年 ChatGPT 充值常见问题 FAQ](#faq)
 - [附录：国内自己充 ChatGPT 最常见的 10 个报错](#troubleshooting)
-- [Plus 用满后要不要看 Pro](#pro)
 - [Codex 用 Plus 还是 Pro](#codex)
 - [团队 / 多人一起用：ChatGPT Business](#business)
+- [GPT-5.6 型号与选档说明](#gpt-5-6)
 - [维护说明 / 更新记录](#changelog)
 
-> 更多资料：[GPT-5.6 要额外付费吗（Plus / Pro 各能用哪个型号）](./articles/gpt-5-6-which-plan.md) · [Codex 点数充值、Reset 与 Pro 怎么选](./articles/codex-credits-recharge-guide.md) · [OpenAI 账号被停用后的官方申诉步骤](./articles/openai-account-deactivated-appeal.md) · [ChatGPT 充值能开发票吗（可报销 / 公对公）](./articles/chatgpt-plus-invoice-reimbursement.md) · [ChatGPT Pro 公司报销怎么入账](./articles/chatgpt-pro-company-reimbursement.md) · [没有国外信用卡怎么开通 ChatGPT Plus](./articles/chatgpt-plus-without-overseas-card.md) · [订阅页面支付异常排查](./articles/chatgpt-plus-payment-troubleshooting.md) · [回答质量异常排查](./troubleshooting/chatgpt-answer-quality.md) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
+> 专题：[Astra 发布后 Plus 和 Pro 怎么选](./articles/gpt-6-astra-which-plan.md) · [公司统一采购指南](./articles/chatgpt-enterprise-procurement.md) · [Pro 公司报销](./articles/chatgpt-pro-company-reimbursement.md) · [Codex 点数与 Reset](./articles/codex-credits-recharge-guide.md) · [全部文章](./articles/) · [排障清单](./troubleshooting/) · [常见问题](./faq/)
+
+------
+
+<a id="astra"></a>
+
+## GPT-6 Astra 发布后，先看什么
+
+GPT-6 Astra 已发布，适合涉及代码、应用和研究的多步骤任务。准备使用前，先确认账号里的模型入口和剩余用量；开放进度、登录方式、客户端及工作区权限都会影响是否可用。[Astra 更新说明](https://learn.chatgpt.com/docs/whats-new)、[模型与可用性](https://learn.chatgpt.com/docs/models)。
+
+**Plus 用户不用因为新模型发布就退订重买。** Work / Codex 的 Astra 用量说明覆盖 Plus 和 Pro，但有额度和开放条件；Pro 的 5× / 20× 是更高的用量档位，不能理解成购买后立即获得所有入口。Work 与 Codex 共享用量，普通 Chat 的入口和限制应单独查看。[套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+
+我会先用一个实际任务判断：现有套餐能否完成工作、是否经常在重置前用完，再决定是否升级。具体排查与选择见 [GPT-6 Astra 发布后，Plus 和 Pro 怎么选](./articles/gpt-6-astra-which-plan.md)。
+
+------
+
+<a id="plans"></a>
+
+## Plus、Pro 5× / 20×、Business 怎么选
+
+| 当前需求 | 优先比较 | 付款前确认 |
+|---|---|---|
+| 偶尔问答、写作、翻译或每周几次集中工作 | Plus | 现有额度是否已经够用 |
+| 每天持续处理代码、研究或文件，明确需要更多用量 | Pro 5× | 常用模型、任务消耗与预算；无需先购买 Plus |
+| Pro 5× 已反复在重置前耗尽，接下来仍有密集工作 | Pro 20× | 更高总支出、换档费用及剩余时长处理 |
+| 公司付款，员工分别使用个人账号 | 按人选择 Plus / Pro | 报价、采购周期、合同、付款及发票要求 |
+| 团队需要统一工作区与成员管理 | Business | 席位版本、人数、数据要求与管理员权限 |
+
+只想体验轻量任务，也可以先比较 Free / Go 的受限 Codex 使用。个人 Plus / Pro 不应多人共用；公司出钱购买个人订阅，也不会自动获得 Business 的工作区管理与数据政策。
+
+------
+
+<a id="pro"></a>
+
+## Pro 5× / 20×：用量、价格与换档提醒
+
+如果已经明确每天都要用 ChatGPT 或 Codex 持续工作，可以直接比较 Pro；不必先买 Plus 再等它用满。轻量使用或尚未形成稳定需求时，Plus 仍是可以考虑的选择。
+
+| 对比项 | Pro 5× | Pro 20× |
+|---|---|---|
+| 官方美元月价 | $100 / 月 | $200 / 月 |
+| Work / Codex 标称用量 | 相对 Plus 的 5× 档 | 相对 Plus 的 20× 档 |
+| 更适合 | 已确定需要 Pro，任务之间有间歇 | 5× 持续不够，工作量仍然较大 |
+| 主要取舍 | 总支出较低 | 更多使用余量，总支出更高 |
+
+两档主要区别是用量，单项功能仍可能有不同限制。5× / 20× 不代表固定消息数、固定工作时长或结果质量倍数；模型、上下文、推理强度和工具调用都会影响消耗。美元参考价与第三方人民币报价分开比较，实际费用以结账页为准。[官方套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+
+我会在付款前记录当前套餐、剩余用量、重置时间和接下来的任务。完整开通步骤与两档购买选择见 [ChatGPT Pro 充值教程](https://github.com/duck-gogo/chatgpt-pro-tutorial)；希望比较第三方报价与条件，可以看 [PlusGO 的 Pro 5× / 20× 选购说明](https://plusgo.pro/blog/chatgpt-pro-5x-vs-20x/?utm_source=github01&utm_medium=readme&utm_campaign=pro_202609)。
+
+> **已有订阅先看换档影响：** PlusGO 当前的 Pro 5× 不能补差价升级到 20×，需要按 20× 全价重新购买；覆盖开通按新套餐重新计算 1 个月，不叠加原订阅剩余时间。Codex 额度可能只补足差额，也可能重置，以账号显示为准。OpenAI 官方订阅的变更与计费规则应在账号内另行确认。
+
+如果只是偶尔在重置前缺少额度，还可以比较等待重置或 [额外点数](./articles/codex-credits-recharge-guide.md)。公司承担费用时，继续看 [统一采购](#enterprise) 或 [Pro 报销凭证](./articles/chatgpt-pro-company-reimbursement.md)。
+
+------
+
+<a id="enterprise"></a>
+
+## 公司统一采购 Plus / Pro / Business
+
+公司统一付款，可以为员工分别采购个人 Plus / Pro，也可以采购 Business 工作区席位。先确认使用与管理需求，再决定产品，不必因为“多人采购”就给所有人买同一档。
+
+- **各自账号使用**：按成员需求组合 Plus、Pro 5× 和 Pro 20×，提前确认每人的当前订阅状态。
+- **统一工作区管理**：比较 Business Standard / Premium 的席位和权限；它与个人 Pro 是不同产品。
+- **采购手续**：先列套餐、账号或席位数量、周期和预算，再确认报价、合同主体、对公付款、发票及交付安排。
+
+PlusGO 的企业采购可沟通上述产品、报价、合同、对公付款与发票需求，具体范围按确认的采购方案执行。个人账号采购数量与 Business 席位门槛分开确认；“企业采购”不等于购买 OpenAI 的 ChatGPT Enterprise。
+
+需要给采购或财务同事一份清单，见 [公司如何统一采购 ChatGPT Plus、Pro 和 Business](./articles/chatgpt-enterprise-procurement.md)。
 
 ------
 
@@ -129,7 +160,7 @@ GPT-5.6 已经在 2026 年 7 月 9 日正式公开发布。三个型号定位不
 
 ⚠️ **选平台先认准三条，少一条都别碰：** 支付通道可追溯 + 不要求密码、邮箱密码或验证码，并明确临时会话凭证的用途与删除方式 + 售后承诺写清楚。低价不是判断付款来源和交付安全的依据；看不清订单主体、凭证处理或退款边界时，不要下单。
 
-以 <a href="https://plusgo.pro/?utm_source=github01" target="_blank" rel="noopener">PlusGO（plusgo.pro）</a> 为例，其当前购买页提供 ChatGPT Go / Plus / Pro / Business（团队版）/ Codex 的第三方充值服务，并支持支付宝 / 微信付款。购买页写明：Go / Plus 通常 1–5 分钟到账；Pro 5× 高峰时可能更久，Pro 20× 以订单进度为准；失败订单当天原路退款，并提供 30 天掉订阅保障。以上均为 PlusGO 自有服务与售后条款，不是 OpenAI 的承诺，使用前应重新核对购买页。
+可以把 <a href="https://plusgo.pro/plans?utm_source=github01&amp;utm_medium=readme&amp;utm_campaign=plans_202609" target="_blank" rel="noopener">PlusGO 的套餐页</a> 作为一个比较入口，查看 Go / Plus / Pro / Business 和 Codex 点数的第三方商品。付款前核对当前价格、账号条件、预计完成时间、失败退款与订阅保障范围；这些是第三方服务条款，不是 OpenAI 的承诺。
 <a id="invoice"></a>
 
 **ChatGPT 充值能开发票吗？国内报销需要准备哪些凭证？** 🧾
@@ -140,20 +171,22 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 - **发票类型：** 增值税电子普通发票（电子普票），可作公司报销凭证。
 - **支持公对公：** 可走对公付款，方便走公司账、报销入账。
-- **抬头 / 税号：** 下单后带手机号或订单号联系客服，提供发票抬头和纳税人识别号即可开。
+- **抬头 / 税号：** 付款前确认票种、公司抬头、税号、开票内容和预计开票时间；已有订单凭手机号或订单号咨询。
 - **适合谁：** Pro / Plus 走公司报销的程序员、团队、需要凭证入账的用户。
 
 > 想看发票怎么开、普票能不能报销、抬头怎么填，详见专文：[ChatGPT Plus / Pro 充值能开发票吗？国内如何拿到可报销的增值税发票](./articles/chatgpt-plus-invoice-reimbursement.md)。
+
+需要合同、对公转账或给多位员工统一购买 Pro 时，先按 [企业采购清单](./articles/chatgpt-enterprise-procurement.md) 确认方案，不要先垫付再补问采购要求。
 
 第三方服务通常提供本地付款、订单查询和售后入口，但会增加服务主体、账号凭证与交付条款风险。订阅交付和账号管理是两件事：OpenAI 是否限制账号由其规则和实际使用决定，任何第三方都不能承诺账号不会被限制。
 
 ### 第三方充值流程（支付宝 / 微信）
 
 1. 先确认自己的 ChatGPT 账号能正常登录。
-2. 打开 PlusGO，选 Plus 或其他适合自己的套餐。
+2. 选择已确认的 Plus、Pro 5× / 20× 或其他适合自己的套餐，核对当前订阅和覆盖提醒。
 3. 用支付宝或微信付款。
 4. 按提示提交临时会话凭证（access_token），平台用它识别账号并处理订阅。它不是账号密码，但在有效期内可能允许访问账号，属于敏感登录凭据；提交给第三方会带来账号安全与条款风险，不应理解为“无需密码就没有风险”。
-5. 等待开通结果，刷新 ChatGPT 页面确认 Plus 状态；保存订单号，长时间没变化时凭订单号联系售后。
+5. 等待开通结果，刷新 ChatGPT 页面确认目标套餐与有效期；保存订单号，长时间没变化时凭订单号联系售后。
 
 ### 代充这条路的优缺点
 
@@ -308,9 +341,13 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 不一定只看有没有国内增值税发票。官网订阅取得的境外 invoice 或具有收款凭证性质的材料，并非天然不能报销或作为境外支出凭证；是否接受、能否税前扣除以及是否需要翻译、合同或付款记录，应以公司制度、主管税务机关和专业财税意见为准。第三方平台能开增值税电子普通发票，通常会让国内报销流程更方便，但仍需公司财务审核。详见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
 
-### Q10：团队里好几个人都要用，是每人开一个 Plus 还是上 Business？
+### Q10：团队里好几个人都要用，是各自买 Plus / Pro 还是上 Business？
 
-看人数，也看是否需要统一工作区、成员管理和集中结算。OpenAI 官方的 Business 工作区**至少需要 2 个付费席位**，可以全选 Standard、全选 Premium，或混合两种席位。Standard 参考价为月付 **$25 / 席 / 月**、年付折算 **$20 / 席 / 月**；Premium 为月付 **$125 / 席 / 月**、年付折算 **$100 / 席 / 月**，包含 Standard 的全部能力、5× 使用量且没有 5 小时使用限制。新增付费席位会立即按当前账期剩余时间比例扣款。自 2026 年 8 月 24 日起，新建 Business 工作区最多购买 200 个 Standard 与 Premium 付费席位，较早创建的工作区保留原有上限。PlusGO 当前 Business 渠道支持 Standard / Premium **月付 5–25 席**，年付需联系客服确认；这是第三方渠道规则，不等同于 OpenAI 官方计费和席位规则。展开见上面 [团队 / 多人一起用：要不要上 ChatGPT Business](#business)。
+员工分别使用个人账号、只需要公司统一采购和准备凭证时，可以按人选择 Plus / Pro。需要统一工作区和成员管理时，再比较 [Business](#business)。两种方案的账号管理、数据政策和数量规则不同，具体采购与询价材料见 [公司统一采购指南](./articles/chatgpt-enterprise-procurement.md)。
+
+### Q11：Astra 发布后一定要购买 Pro 吗？
+
+不一定。先确认所用客户端是否已开放、现有套餐是否包含所需用量；不能把 Work / Codex 的说明直接当成普通 Chat 的权益。明确需要持续处理重任务时，可以比较 Pro 5× / 20×；订阅状态正常但缺少模型入口时，不要重复购买。详见 [Astra 选档与入口排查](./articles/gpt-6-astra-which-plan.md)。
 
 ------
 
@@ -368,34 +405,15 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ------
 
-<a id="pro"></a>
-
-## Plus 用满后要不要看 Pro 5× / 20×
-
-先把 Plus 当起点，而不是把 Pro 当默认。Plus 适合大多数日常写作、翻译、问答、轻度代码和资料整理；Pro 更适合每天长时间用 ChatGPT 或 Codex、经常被额度或任务长度打断的重度用户。官方现在提供 **Pro $100 / 月（5× 用量）**和 **Pro $200 / 月（20× 用量）**两档，两档核心能力相同，主要区别是使用额度。
-
-```
-[ ] Plus 额度经常在工作中途用完
-[ ] 每天连续用 ChatGPT 或 Codex 处理项目
-[ ] 经常做长文档分析、复杂代码修改或深度研究
-[ ] 订阅成本能被省下来的时间覆盖
-```
-
-如果只是偶尔问答、写文案、轻度编程，Plus 通常够用。经常吃满 Plus 额度时先看 Pro 5×；持续并行跑重任务、5× 仍不够时再看 Pro 20×。确认自己是重度用户后，可以继续看这份 Pro 教程：[ChatGPT Pro 充值代充指南：国内如何用微信 / 支付宝订阅 Pro 会员](https://github.com/duck-gogo/chatgpt-pro-tutorial)。
-
-> 💡 Pro 5× 为 $100 / 月，Pro 20× 为 $200 / 月。如果走公司报销，应先向财务确认境外 invoice、付款记录和增值税发票分别需要哪些材料；不要把“有国内发票”写成唯一可报销路径。详见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
-
-------
-
 <a id="codex"></a>
 
 ## Codex 用 Plus 还是 Pro
 
-Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；不同方案的使用额度不同，不需要为了“能不能用 Codex”直接上 Pro：
+Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；选择时看实际使用强度和所需模型。Astra 在符合条件的客户端与账号逐步开放，入口不能只根据套餐名称推断；Work 和 Codex 共享用量。
 
 - **Free / Go**：包含受限的 Codex 使用，可使用 GPT-5.6 Terra；适合先体验或偶尔处理轻量编码任务。
-- **Plus**：包含 Codex 的网页、CLI、IDE 扩展和 iOS 入口，并可使用 GPT-5.6 Sol、Terra、Luna；适合每周几次集中编码任务。
-- **Pro 5× / 20×**：主要增加相对 Plus 的 Codex 使用额度；当前还包含 Pro 专属的 **GPT-5.3-Codex-Spark 研究预览**。
+- **Plus**：包含 Codex 多个入口及 GPT-5.6 Sol、Terra、Luna；Astra 的具体可用性与限额需在所用客户端核对，适合用量较轻的集中工作。
+- **Pro 5× / 20×**：适合持续编码、研究或文件任务，主要增加相对 Plus 的用量；当前还包含 Pro 专属的 **GPT-5.3-Codex-Spark 研究预览**，研究预览另有额度。
 - **API Key**：属于单独的按量计费路径，不继承 ChatGPT 订阅额度，也不包含 GitHub 代码审查等云端订阅功能。
 
 > **2026 年 8 月 31 日模型迁移：** 使用 ChatGPT 账号登录 Codex 时，GPT-5.4 和 GPT-5.4 mini 已不再可用。工作区默认值、保存的模型设置、托管配置或自动化应分别改用 **GPT-5.6 Terra** 和 **GPT-5.6 Luna**。这不影响 OpenAI API，也不影响使用自有 API Key 的 Codex。
@@ -412,7 +430,7 @@ Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；不同方案的�
 
 ## 团队 / 多人一起用：要不要上 ChatGPT Business
 
-前面 Plus、Pro 都是给一个人用的。如果是一个小团队、工作室，或者公司里好几个人都要用 ChatGPT，一人开一个 Plus 就有点乱——账号分散、报销也各交各的。这种多人场景，可以看 OpenAI 的团队档 **ChatGPT Business**（早期叫 ChatGPT Team）。
+Plus、Pro 是个人订阅，公司可以为员工分别采购。需要统一工作区、成员管理和团队数据政策时，可以比较 **ChatGPT Business**（早期叫 ChatGPT Team）；只需要统一付款与报销材料，则先看 [个人订阅的企业采购](#enterprise)。
 
 **它和 Plus 差在哪：**
 
@@ -431,7 +449,7 @@ Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；不同方案的�
 **适合谁 / 不适合谁：**
 
 - **适合**：团队 / 工作室 / 公司里有多人长期使用，需要统一工作区、成员管理和集中结算的；
-- **不适合**：只有你自己一个人用——那 Plus 就够了，没必要为了"团队版"三个字多花钱。
+- **未必需要**：只有一个人使用，或只想集中购买个人订阅；可以按用量比较 Plus / Pro。
 
 **第三方 Business 渠道示例：**
 
@@ -439,12 +457,22 @@ OpenAI 官方 Business 工作区至少需要 2 个 Standard / Premium 付费席�
 
 1. 先想清楚要开几个席位——PlusGO 当前渠道为 **5 席起、最多 25 席**，按你选的席位数计费；
 2. 在代充平台选择 Standard 标准版或 Premium 高级版，再填席位数；两种版本的月付支持在线下单，年付需联系客服确认；
-3. 支付宝 / 微信扫码付款；需要对公付款、开发票的，下单后带订单号联系客服说明抬头和税号；
-4. 开通方案由**专人对接确认**，付完保存订单号，有问题凭订单号找售后。
+3. 需要合同、对公付款或开发票的，在付款前确认主体、票种、抬头、税号及开票内容；
+4. 按确认的付款与开通方案办理，保存订单信息，完成后核对工作区和席位，有问题凭订单号联系售后。
 
 以 PlusGO 当前购买页为例，其 Business 渠道支持 Standard / Premium 月付 5–25 席在线下单、支付宝 / 微信付款、对公与开票，并说明失败订单原路退款；年付暂不开放在线下单。这些属于第三方渠道条款，不等同于 OpenAI 官方 Business 的计费、席位或退款规则；个人使用者通常无需为了团队管理功能选择 Business。
 
 > 💡 团队采购前先让财务确认采购主体、付款方式、发票或 invoice、订单和合同要求。第三方渠道提供的对公与开票能力不等同于 OpenAI 自助 Business。凭证怎么准备见 [ChatGPT 充值能开发票吗？怎么报销](./articles/chatgpt-plus-invoice-reimbursement.md)。
+
+------
+
+<a id="gpt-5-6"></a>
+
+## GPT-5.6 型号与选档说明
+
+GPT-5.6 在 2026 年 7 月发布，Luna、Terra、Sol 分别面向轻量高频、日常工作与复杂任务。已有订阅的用户，应先在实际使用的界面核对可选型号，不必因模型更新退订重买。
+
+关于 GPT-5.6 的型号、原有 Chat 档位和官方订阅切换说明，保留在 [GPT-5.6 要额外付费吗](./articles/gpt-5-6-which-plan.md)。准备使用新模型或重新选购时，先看 [Astra 选档指南](./articles/gpt-6-astra-which-plan.md)，不要用旧型号表推断 Astra 权限。
 
 ------
 
@@ -458,6 +486,7 @@ OpenAI 官方 Business 工作区至少需要 2 个 Standard / Premium 付费席�
 
 集中维护的官方资料见 [SOURCES.md](./SOURCES.md)。
 
+- 2026-09-06：新增 Astra 选档与企业采购指南；前移 Plus / Pro 套餐比较，补充 Pro 两档价格、用量和第三方换档提醒，更新 FAQ 与报销文章。
 - 2026-09-01：同步 PlusGO Business Standard / Premium 月付 5–25 席口径；新增 Codex 点数、Banked Reset 与升级选择专文，以及回答质量异常的单变量排查页。
 - 2026-08-31：更新 Business Premium 价格、用量、混合席位与 200 席上限，并同步当日第三方 Business 渠道口径；补充 Free / Go 的受限 Codex、GPT-5.4 / mini 迁移和 Support 不重置用量限制说明。
 - 2026-08-11：新增 OpenAI 账号停用原因与官方申诉专文，并补充 Pro 5× / 20× 的切换和计费生效规则。

@@ -1,10 +1,24 @@
 # ChatGPT 充值 / 代充常见问题 FAQ（2026）
 
-> 最近更新：2026 年 9 月 1 日
+> 最近更新：2026 年 9 月 6 日
 
 > **广告 / 商业披露：** 本页包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；使用第三方服务前应核对支持地区、账号凭证和售后条款。
 
-这里整理国内用户给 ChatGPT Plus 充值、代充时最常被问到的问题。想看完整的充值方式对比，回 [主教程](../README.md)；想按报错对照排查，看 [排障清单](../troubleshooting/)。
+这里整理 ChatGPT Plus / Pro 选档、企业采购和付款时常见的问题。完整对比见 [主教程](../README.md)；想按报错对照排查，看 [排障清单](../troubleshooting/)。
+
+## Astra 与企业采购
+
+### Q：Astra 发布后，必须购买 Pro 才能用吗？
+
+不一定。Work / Codex 的 Astra 用量说明也覆盖 Plus，实际入口仍取决于账号、客户端和开放进度；普通 Chat 的入口与限额需单独查看。现有订阅正常时，先确认模型和用量，不要退订重买来验证。详见 [Astra 选档与入口排查](../articles/gpt-6-astra-which-plan.md)。
+
+### Q：公司能统一购买员工各自的 Pro 吗？
+
+可以沟通个人 Plus / Pro 的统一采购，按成员用量选择 Pro 5× 或 20×。需要工作区和成员管理时，再比较 Business。个人 Pro 批量采购数量与 Business 席位门槛分开确认；公司付款不会自动获得 Business 或 Enterprise 的组织权益。
+
+### Q：公司需要合同、对公付款和发票，应该先做什么？
+
+先准备套餐、数量、周期、预算，以及合同和发票要求，再确认报价、主体、付款及交付安排。PlusGO 企业采购可沟通这些需求，具体范围以本次方案为准，不默认有固定折扣或任意票种。完整清单及采购入口见 [公司统一采购指南](../articles/chatgpt-enterprise-procurement.md)。
 
 ------
 
@@ -78,7 +92,11 @@
 
 ### Q：Plus 和 Pro 怎么选？
 
-大多数普通用户先从 Plus 开始就够了。Codex 已包含在所有 ChatGPT 方案中，Free 和 Go 也有受限使用；Plus 提供更大的使用空间，Pro 更适合每天高频重度使用 ChatGPT 或 Codex、经常被额度或任务长度打断的人。Pro 主要增加相对 Plus 的 5× / 20× 使用额度，并提供当前 Pro 专属的 GPT-5.3-Codex-Spark 研究预览。自 2026 年 8 月 31 日起，使用 ChatGPT 账号登录 Codex 时，应以 GPT-5.6 Terra 替代 GPT-5.4、以 GPT-5.6 Luna 替代 GPT-5.4 mini；API 和使用自有 API Key 的 Codex 不受影响。详细判断标准见 [主教程：Plus 用满后要不要看 Pro](../README.md#pro)、[Codex 用 Plus 还是 Pro](../README.md#codex) 和 [OpenAI 官方 Codex 方案说明](https://help.openai.com/en/articles/11369540)。
+轻量使用或现有额度够用，可以选 Plus。已经明确每天持续用 ChatGPT 或 Codex 做项目，可以直接比较 Pro 5×；5× 反复在重置前耗尽、后续工作仍密集，再比较 20×，无需先买 Plus 作为前置步骤。Work 与 Codex 共享用量，5× / 20× 不代表固定消息数或结果质量倍数。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro)、[Codex 用 Plus 还是 Pro](../README.md#codex) 和 [官方套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+
+### Q：Pro 5× 不够用，可以补差价升 20× 吗？
+
+要区分购买方式。PlusGO 当前不能补差价升级，需要按 20× 全价重新购买；覆盖开通重新计算 1 个月，不叠加原订阅剩余时间，Codex 额度是否补差或重置以账号显示为准。OpenAI 官方订阅变更另看账号内确认页，不能互相套用。购买前先读 [Pro 换档提醒](../README.md#pro)。
 
 ### Q：ChatGPT 或 Codex 用量到顶后，OpenAI 客服能帮我重置吗？
 
