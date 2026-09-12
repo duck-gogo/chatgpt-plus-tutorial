@@ -1,6 +1,6 @@
 # ChatGPT 充值 / 代充常见问题 FAQ（2026）
 
-> 最近更新：2026 年 9 月 6 日
+> 最近更新：2026 年 9 月 12 日
 
 > **广告 / 商业披露：** 本页包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；使用第三方服务前应核对支持地区、账号凭证和售后条款。
 
@@ -10,11 +10,11 @@
 
 ### Q：Astra 发布后，必须购买 Pro 才能用吗？
 
-不一定。Work / Codex 的 Astra 用量说明也覆盖 Plus，实际入口仍取决于账号、客户端和开放进度；普通 Chat 的入口与限额需单独查看。现有订阅正常时，先确认模型和用量，不要退订重买来验证。详见 [Astra 选档与入口排查](../articles/gpt-6-astra-which-plan.md)。
+不一定。Plus 已包含 Work / Codex 中的 Astra，但不包含普通 Chat 的 GPT-6 Pro；后者当前包含在 Pro 5×、20× 与符合条件的 Business / Enterprise 中。两类入口的额度分开，先查客户端和权限，不要退订重买来验证。详见 [Astra 选档与入口排查](../articles/gpt-6-astra-which-plan.md)。
 
 ### Q：公司能统一购买员工各自的 Pro 吗？
 
-可以沟通个人 Plus / Pro 的统一采购，按成员用量选择 Pro 5× 或 20×。需要工作区和成员管理时，再比较 Business。个人 Pro 批量采购数量与 Business 席位门槛分开确认；公司付款不会自动获得 Business 或 Enterprise 的组织权益。
+可以沟通个人 Plus / Pro 的统一采购。新购按成员用量比较 Plus、Pro 5×，有效 20× 老用户的续费单列，暂停期间不能给新账号采购 20×。需要工作区和成员管理时再比较 Business；个人 Pro 数量门槛需单独确认，公司付款不会自动取得组织权益。
 
 ### Q：公司需要合同、对公付款和发票，应该先做什么？
 
@@ -82,21 +82,27 @@
 
 看你选的方式。自己订阅或 iOS 内购通常有订阅管理入口；第三方自助代充可能是单月商品，也可能提供 3 个月、12 个月等第三方服务组合。OpenAI 当前不为 Go、Plus、Pro 提供官方年付或一次预付多个月；下单前要看清第三方商品的按月交付、续费和退款规则。
 
+Pro 20× 是当前尤其需要提前确认的情况：有效老用户可续费，订阅终止后暂停期间不能重新购买。不要把“等到期再充值”套到 20×，先看 [暂停与续订说明](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
+
 ### Q：开通之后怎么管理订阅？
 
 - iOS 内购：在 Apple 的订阅管理里查看、取消、看账单。
 - 自己用海外信用卡订阅：在账号设置的订阅页管理。
-- 第三方自助代充：到期前回原平台再操作一次，留意续费说明。
+- 第三方自助代充：按原订单确认单月覆盖、多月服务或到期自动续费安排，不默认需要重复下单。
 
 不管哪种方式，建议留好订单号或凭证，方便后续查询和售后。
 
 ### Q：Plus 和 Pro 怎么选？
 
-轻量使用或现有额度够用，可以选 Plus。已经明确每天持续用 ChatGPT 或 Codex 做项目，可以直接比较 Pro 5×；5× 反复在重置前耗尽、后续工作仍密集，再比较 20×，无需先买 Plus 作为前置步骤。Work 与 Codex 共享用量，5× / 20× 不代表固定消息数或结果质量倍数。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro)、[Codex 用 Plus 还是 Pro](../README.md#codex) 和 [官方套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+轻量使用或现有额度够用，可以选 Plus；需要普通 Chat 的 GPT-6 Pro 或更多 Work / Codex 用量，可直接评估 Pro 5×，无需先买 Plus。20× 当前暂停新购／升级；5× 用完时先区分限额类型，再评估重置或受支持的补量方式。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro) 和 [Codex 用 Plus 还是 Pro](../README.md#codex)。
 
 ### Q：Pro 5× 不够用，可以补差价升 20× 吗？
 
-要区分购买方式。PlusGO 当前不能补差价升级，需要按 20× 全价重新购买；覆盖开通重新计算 1 个月，不叠加原订阅剩余时间，Codex 额度是否补差或重置以账号显示为准。OpenAI 官方订阅变更另看账号内确认页，不能互相套用。购买前先读 [Pro 换档提醒](../README.md#pro)。
+当前不能升到 20×。OpenAI 自 9 月 10 日起暂停该档的新订阅和升级，补差价、全价购买或第三方付款均不能改变这一范围。5× 不受此次暂停影响；恢复时间以 [官方暂停说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans) 为准。
+
+### Q：20× 显示“续订安排已完成”，到期日为什么没增加？
+
+PlusGO 的有效老用户服务先安排到期自动扣费，扣费成功后从原到期日接续 1 个月并保留剩余时间，不是立即覆盖重开。付款后仍需回原订单核对账号并确认提交；到期扣费失败或状态不明时联系原渠道，不重复下单。详见 [续订安排与扣费验收](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#renewal-status)。
 
 ### Q：ChatGPT 或 Codex 用量到顶后，OpenAI 客服能帮我重置吗？
 
