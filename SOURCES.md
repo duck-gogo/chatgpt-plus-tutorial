@@ -1,6 +1,6 @@
 # 官方资料索引
 
-> 最近增补核对：2026 年 9 月 12 日（Pro 20× 暂停与续费、GPT-6 Pro 的 Chat 权益及近期 Work / Codex 更新；其他条目保留原核对范围）
+> 最近增补核对：2026 年 9 月 14 日（仅核对 Pro 20× 官方暂停与 PlusGO 新开通／存量续订；其他条目保留原核对范围）
 
 本页集中记录教程中涉及的官方事实来源。产品名称、价格、额度、支持地区和计费规则都可能变化；正文与本页冲突时，以官方页面和账号内实际显示为准。
 
@@ -11,7 +11,7 @@
 - [Enterprise 的 Astra 模型可用性](https://learn.chatgpt.com/docs/enterprise/workspace-model-availability#gpt-6-astra-in-enterprise)：组织开放资格、管理员启用与客户端权限边界。
 - [GPT-5.6 与 GPT-6 Pro](https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt/)：普通 Chat 的 Pro 模型资格与共享限额、Plus 的 Work / Codex Astra 权益、CLI 与桌面版本要求。
 - [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)：近期 Deep Research 进入 Work / Codex、Library 与其他功能更新；各入口计量不可混用。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)：9 月 10 日起 20× 暂停新购／升级、有效老用户续费、取消或降级生效及续费扣款失败的边界；5× 不受此次暂停影响。
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)：9 月 10 日起 20× 官方常规新购／升级暂停、有效老用户续费、取消或降级生效及续费扣款失败的边界；5× 不受此次暂停影响。
 - [What is ChatGPT Business?](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business)：Standard / Premium 席位、价格、用量与工作区规则。
 - [Managing billing and seats in ChatGPT Business](https://help.openai.com/en/articles/8792536)：两席起购、混合席位、新增席位计费与 200 席上限。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)：Free / Go 的 Codex 可用性、GPT-5.4 / mini 迁移及使用上限处理。
@@ -42,6 +42,7 @@
 
 ## 维护原则
 
+- Pro 20× 的第三方可售范围另核对 [PlusGO 新开通与存量续订公告](https://plusgo.pro/blog/chatgpt-pro-20x-renewal-notice/)（页面更新于 9 月 13 日）及当前购买页：新开通适用当前 Free / Go / Plus / Pro 5× 且能正常网页登录的账号，存量续订另核对资格和账单；不将第三方商品当成官方恢复新购。
 - OpenAI 官方方案与第三方服务条款分开核对，不互相推导。
 - 不使用固定成功率、固定封号率或未经官方证实的 BIN、IP、风控机制。
 - 第三方到账、退款、开票和售后信息以其购买页与订单条款为准，并标明不属于 OpenAI 承诺。

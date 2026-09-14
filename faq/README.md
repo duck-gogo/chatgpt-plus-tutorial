@@ -1,6 +1,6 @@
 # ChatGPT 充值 / 代充常见问题 FAQ（2026）
 
-> 最近更新：2026 年 9 月 12 日
+> 最近更新：2026 年 9 月 14 日（本次仅更新 Pro 20× 新开通与续订范围、流程）
 
 > **广告 / 商业披露：** 本页包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；使用第三方服务前应核对支持地区、账号凭证和售后条款。
 
@@ -14,7 +14,7 @@
 
 ### Q：公司能统一购买员工各自的 Pro 吗？
 
-可以沟通个人 Plus / Pro 的统一采购。新购按成员用量比较 Plus、Pro 5×，有效 20× 老用户的续费单列，暂停期间不能给新账号采购 20×。需要工作区和成员管理时再比较 Business；个人 Pro 数量门槛需单独确认，公司付款不会自动取得组织权益。
+可以沟通个人 Plus / Pro 的统一采购。按成员用量比较 Plus、Pro 5×；考虑 PlusGO 的 20× 新开通时，逐个核对账号、覆盖与购买限制，与有效 20× 的续订需求分列询价，批量范围咨询时确认。需要工作区和成员管理时再比较 Business，公司付款不会自动取得组织权益。
 
 ### Q：公司需要合同、对公付款和发票，应该先做什么？
 
@@ -82,7 +82,7 @@
 
 看你选的方式。自己订阅或 iOS 内购通常有订阅管理入口；第三方自助代充可能是单月商品，也可能提供 3 个月、12 个月等第三方服务组合。OpenAI 当前不为 Go、Plus、Pro 提供官方年付或一次预付多个月；下单前要看清第三方商品的按月交付、续费和退款规则。
 
-Pro 20× 是当前尤其需要提前确认的情况：有效老用户可续费，订阅终止后暂停期间不能重新购买。不要把“等到期再充值”套到 20×，先看 [暂停与续订说明](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
+Pro 20× 尤其要分清：官方常规新购仍暂停，有效老用户先确认原渠道续费；PlusGO 当前另有新开通，但到期不自动续费、不保证后续可再次订阅，也不是恢复原续订资格。不要把“等到期再充值”当成保底方案，先看 [新开通与存量续订说明](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
 
 ### Q：开通之后怎么管理订阅？
 
@@ -94,11 +94,11 @@ Pro 20× 是当前尤其需要提前确认的情况：有效老用户可续费�
 
 ### Q：Plus 和 Pro 怎么选？
 
-轻量使用或现有额度够用，可以选 Plus；需要普通 Chat 的 GPT-6 Pro 或更多 Work / Codex 用量，可直接评估 Pro 5×，无需先买 Plus。20× 当前暂停新购／升级；5× 用完时先区分限额类型，再评估重置或受支持的补量方式。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro) 和 [Codex 用 Plus 还是 Pro](../README.md#codex)。
+轻量使用或现有额度够用，可以选 Plus；需要普通 Chat 的 GPT-6 Pro 或更多 Work / Codex 用量，可直接比较 Pro 两档，无需先买 Plus。官方常规入口仍暂停 20× 新购／升级，PlusGO 的新开通另按当前账号与购买条件确认；5× 用完时先区分限额类型，不默认换档能重置额度。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro) 和 [Codex 用 Plus 还是 Pro](../README.md#codex)。
 
 ### Q：Pro 5× 不够用，可以补差价升 20× 吗？
 
-当前不能升到 20×。OpenAI 自 9 月 10 日起暂停该档的新订阅和升级，补差价、全价购买或第三方付款均不能改变这一范围。5× 不受此次暂停影响；恢复时间以 [官方暂停说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans) 为准。
+不能默认补差价。OpenAI 的常规新购与升级仍暂停，见 [官方暂停说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)。PlusGO 当前的 20× 新开通接受符合条件的 Pro 5× 账号，但按商品价覆盖 1 个月，不叠加原剩余时间、不保证额度全量重置；这不是官方恢复升级。付款前读清 [账号范围与新开通限制](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#plusgo-new)。
 
 ### Q：20× 显示“续订安排已完成”，到期日为什么没增加？
 
