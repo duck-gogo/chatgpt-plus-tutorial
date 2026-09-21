@@ -1,6 +1,6 @@
 # ChatGPT 充值 / 代充常见问题 FAQ（2026）
 
-> 最近更新：2026 年 9 月 14 日（本次仅更新 Pro 20× 新开通与续订范围、流程）
+> 最近更新：2026 年 9 月 21 日（本次更新 Pro 20× 回购／续订／恢复与 Plus 当前销售周期）
 
 > **广告 / 商业披露：** 本页包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；使用第三方服务前应核对支持地区、账号凭证和售后条款。
 
@@ -14,7 +14,7 @@
 
 ### Q：公司能统一购买员工各自的 Pro 吗？
 
-可以沟通个人 Plus / Pro 的统一采购。按成员用量比较 Plus、Pro 5×；考虑 PlusGO 的 20× 新开通时，逐个核对账号、覆盖与购买限制，与有效 20× 的续订需求分列询价，批量范围咨询时确认。需要工作区和成员管理时再比较 Business，公司付款不会自动取得组织权益。
+可以沟通个人 Plus / Pro 的统一采购。按成员用量比较 Plus、Pro 5×；PlusGO 的 20× 新开通当前暂停，正常续费、欠费续费与恢复需求分列询价，逐个核验，批量范围咨询时确认。需要工作区和成员管理时再比较 Business，公司付款不会自动取得组织权益。
 
 ### Q：公司需要合同、对公付款和发票，应该先做什么？
 
@@ -80,9 +80,9 @@
 
 ### Q：到期后会自动续费吗？
 
-看你选的方式。自己订阅或 iOS 内购通常有订阅管理入口；第三方自助代充可能是单月商品，也可能提供 3 个月、12 个月等第三方服务组合。OpenAI 当前不为 Go、Plus、Pro 提供官方年付或一次预付多个月；下单前要看清第三方商品的按月交付、续费和退款规则。
+看你选的方式。自己订阅或 iOS 内购通常有订阅管理入口；第三方按本次商品和订单约定办理。PlusGO 当前公开 Plus 仅有月充，3 个月和 12 个月已停止新售，历史订单仍按原约定处理。第三方多月服务不等于 OpenAI 官方年付或一次预付多个月。
 
-Pro 20× 尤其要分清：官方常规新购仍暂停，有效老用户先确认原渠道续费；PlusGO 当前另有新开通，但到期不自动续费、不保证后续可再次订阅，也不是恢复原续订资格。不要把“等到期再充值”当成保底方案，先看 [新开通与存量续订说明](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
+Pro 20× 尤其要分清：官方常规新购仍暂停，有效老用户先确认原渠道续费；权益结束后，符合历史资格且未使用过一次性机会的老用户，可在 30 天内付费回购。PlusGO 新开通当前暂停，续订／恢复另须核验，不是所有过期账号都能恢复。完整条件见 [回购与续订说明](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
 
 ### Q：开通之后怎么管理订阅？
 
@@ -94,15 +94,15 @@ Pro 20× 尤其要分清：官方常规新购仍暂停，有效老用户先确�
 
 ### Q：Plus 和 Pro 怎么选？
 
-轻量使用或现有额度够用，可以选 Plus；需要普通 Chat 的 GPT-6 Pro 或更多 Work / Codex 用量，可直接比较 Pro 两档，无需先买 Plus。官方常规入口仍暂停 20× 新购／升级，PlusGO 的新开通另按当前账号与购买条件确认；5× 用完时先区分限额类型，不默认换档能重置额度。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro) 和 [Codex 用 Plus 还是 Pro](../README.md#codex)。
+轻量使用或现有额度够用，可以选 Plus；需要普通 Chat 的 GPT-6 Pro 或更多 Work / Codex 用量，可直接评估 Pro 5×，无需先买 Plus。官方常规 20× 新购／升级与 PlusGO 新开通仍暂停，老用户回购／恢复另有条件；5× 用完时先区分限额类型，不默认换档能重置额度。详细标准见 [主教程：Pro 两档怎么选](../README.md#pro) 和 [Codex 用 Plus 还是 Pro](../README.md#codex)。
 
 ### Q：Pro 5× 不够用，可以补差价升 20× 吗？
 
-不能默认补差价。OpenAI 的常规新购与升级仍暂停，见 [官方暂停说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)。PlusGO 当前的 20× 新开通接受符合条件的 Pro 5× 账号，但按商品价覆盖 1 个月，不叠加原剩余时间、不保证额度全量重置；这不是官方恢复升级。付款前读清 [账号范围与新开通限制](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#plusgo-new)。
+不能默认补差价。官方常规升级与 PlusGO 新开通仍暂停；当前 5× 且曾有 20× 的用户，须另核对 [官方一次性回购](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#official-return) 或第三方恢复条件，不能仅凭当前档位判断。购买不会保证用量全量重置。[官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)。
 
 ### Q：20× 显示“续订安排已完成”，到期日为什么没增加？
 
-PlusGO 的有效老用户服务先安排到期自动扣费，扣费成功后从原到期日接续 1 个月并保留剩余时间，不是立即覆盖重开。付款后仍需回原订单核对账号并确认提交；到期扣费失败或状态不明时联系原渠道，不重复下单。详见 [续订安排与扣费验收](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#renewal-status)。
+PlusGO 的正常有效会员续费先安排到期自动扣费，成功后从原到期日接续 1 个月并保留剩余时间，不是立即覆盖重开。欠费续费与恢复开通另按核验说明和账号显示验收。付款后仍需回原订单确认提交；状态不明时联系原渠道，不重复下单。详见 [续订安排与扣费验收](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#renewal-status)。
 
 ### Q：ChatGPT 或 Codex 用量到顶后，OpenAI 客服能帮我重置吗？
 

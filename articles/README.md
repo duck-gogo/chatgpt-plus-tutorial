@@ -6,7 +6,7 @@
 
 ## 目录
 
-- [Pro 20× 官方暂停、PlusGO 新开通与存量续订（Pro 仓库）](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)
+- [Pro 20× 官方回购、PlusGO 新开通暂停与续订／恢复（Pro 仓库）](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)
 - [GPT-6 Astra 发布后，Plus 和 Pro 怎么选？用量、入口与升级提醒（2026）](./gpt-6-astra-which-plan.md)
 - [公司如何统一采购 ChatGPT Plus、Pro 和 Business？报价、合同与付款清单（2026）](./chatgpt-enterprise-procurement.md)
 - [ChatGPT Pro 公司报销怎么入账？发票、走账、会计科目全流程（2026）](./chatgpt-pro-company-reimbursement.md)

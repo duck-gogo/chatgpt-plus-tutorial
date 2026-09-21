@@ -1,6 +1,6 @@
 # Codex 点数怎么充值？额度用完后的选择与注意事项（2026）
 
-> 最近更新：2026 年 9 月 14 日（本次仅修正 Pro 20× 可购范围；点数条款与计量说明保留原核对范围）
+> 最近更新：2026 年 9 月 21 日（本次更新 Pro 20× 可购范围、点数负余额与退款例外、Word 共享用量；Reset 说明保留原核对范围）
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方点数充值服务介绍。PlusGO 并非 OpenAI 官方渠道，相关内容不代表 OpenAI 的推荐、认证或背书；账号能否购买、可用功能、余额和实际消耗以 OpenAI 账号页面为准。
 
@@ -29,7 +29,9 @@ OpenAI 将点数定义为套餐之外的按量补充。购买点数不会改变�
 2. 达到方案上限后，符合条件的功能才从点数余额扣除；
 3. 余额、最近使用和重置时间，以账号的 Usage 页面为准。
 
-在功能对当前方案开放的前提下，同一账号的点数可能由 Codex、ChatGPT Work、ChatGPT for Excel 等受支持功能共同使用。它们**不是 OpenAI API credits**，不能拿去抵扣 API 账单。
+在功能对当前方案开放的前提下，同一账号的点数可由 Codex、ChatGPT Work、ChatGPT for Word、Excel、PowerPoint 等受支持功能共同使用。它们**不是 OpenAI API credits**，不能拿去抵扣 API 账单。
+
+**Word 也会影响共享用量。** 9 月 17 日新增的 ChatGPT for Word 支持在文档侧栏起草、总结和修改内容，包含 Free 在内的所有套餐均可使用，并非 Pro 独占。Plus / Pro 的 Word 与 Codex 等受支持功能共享 agentic allowance，套餐内用量耗尽后才按账号提供的点数选项继续；不是每个 Office 入口各送一份额度。[官方发布说明](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [共享用量说明](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)。
 
 9 月 9 日进入 Work / Codex 的 Deep Research 也使用既有 Work / Codex 用量或点数；普通 Chat 的 Deep Research 限额不变。普通 Chat 的 GPT-6 Pro 周额度是另一套规则，不要把购买 Codex 点数当成能解除 Chat 模型限额。[官方更新](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [GPT-6 Pro 限额](https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt/)。
 
@@ -52,13 +54,15 @@ Codex、普通 ChatGPT 对话、文件上传、图像和语音可能使用不同
 ### 3. 是临时补充，还是长期高频使用
 
 - 偶尔在重置前差一点用量：少量点数更灵活；
-- 每个周期都稳定触顶：比较 Pro 5×、符合 PlusGO 条件的 20× 新开通完整费用与点数持续成本；官方常规 20× 新购仍暂停，不默认补差升级或重置额度；
+- 每个周期都稳定触顶：比较 Pro 5× 的完整费用与点数持续成本；官方常规 20× 新购与 PlusGO 新开通仍暂停，曾有 20× 时另核对回购／恢复资格，不默认补差升级或重置额度；
 - 页面已有可用 Banked Reset：先看有效期和影响范围，再决定是否使用；
 - 不着急：等待账号显示的正常重置时间，不产生额外费用。
 
 ### 4. 接受点数条款
 
-OpenAI 当前说明，购买的点数通常不可退款（法律另有要求除外），自购买起有效 12 个月，过期不结转；点数不可转让、没有现金价值，也不能转售或赠送。
+OpenAI 当前说明，点数通常不可退款，但法律、合同要求或获批准的例外除外。未使用点数可就已核实的计费错误、未经授权活动、OpenAI 服务故障或错误账号限制申请审核；已使用点数的审核仅限于已核实的计费更正或未经授权使用，并受适用法律、合同约束。联系 OpenAI Support 不等于必获退款，也不能把官方规则当成第三方订单的退款承诺。[官方退款边界](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)。
+
+购买的点数自购买起有效 12 个月，过期不结转；点数不可转让、没有现金价值，也不能转售或赠送。
 
 ------
 
@@ -92,13 +96,13 @@ OpenAI Support 不会手动或礼貌性地赠送 Reset。若账号本应获得�
 | 情况 | 更值得先看 |
 |---|---|
 | 偶尔触顶，离重置只差一个临时任务 | 少量点数 |
-| 每个周期都触顶，长期做重任务 | 比较 Pro 5× 与符合 PlusGO 条件的 20× 新开通成本及限制；已有有效 20× 则核对续订 |
+| 每个周期都触顶，长期做重任务 | 比较 Pro 5× 与点数持续成本；当前或曾有 20× 时另核对续费、回购／恢复资格 |
 | 账号显示有即将过期的 Banked Reset | 先核对并使用 Reset |
 | 不急，且不想增加支出 | 等待正常重置 |
 
 升级 Pro 会改变订阅档位和持续额度；购买点数不会改变方案，只补充受支持功能的额外使用。比较时应看一个完整周期的实际消耗，不要只看单次任务。
 
-准备长期使用时，可以继续比较 [Pro 的费用、新开通与续订条件](../README.md#pro)。自 9 月 10 日起，官方常规入口暂停 20× 新购／升级，有效老用户可续费，见 [官方暂停说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)。PlusGO 当前另有面向 Free / Go / Plus / Pro 5× 且可正常网页登录账号的新开通，不代表官方恢复；覆盖不叠加剩余时间、不保证额度全量重置，到期不自动续费，也不保证后续可再次订阅。需求明确时无需先买 Plus，付款前读清本次购买限制。
+准备长期使用时，可以继续比较 [Pro 的费用与购买条件](../README.md#pro)。官方常规 20× 新购／升级仍暂停，有效老用户可续费，符合条件的老用户可限时付费回购一次，见 [官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)。PlusGO 新开通当前暂停，续订／恢复另须核验，不保证用量全量重置。需求明确时可直接评估 5×，无需先买 Plus。
 
 ------
 
@@ -111,6 +115,10 @@ OpenAI 当前向部分 Free / Go 用户提供点数购买能力，但是否开�
 ### 买了点数，会立刻改变套餐额度吗？
 
 不会。原方案不变，套餐内用量仍优先消耗；达到上限后，符合条件的功能才从点数余额扣除。
+
+### 充值后余额增加得比购买数量少，是没到账吗？
+
+不一定。若任务开始时余额为正，但完成前被其他并发任务耗尽，结算后可能出现负余额。后续购买或自动充值会先抵扣负数，再增加可用余额。先在 `Settings → Usage` 或 `Usage & Billing` 核对充值前后余额、购买记录与同期消耗；仍对不上时联系相应支持方，不只凭余额净增加值认定少到账，也不要重复购买。[官方负余额说明](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)。
 
 ### 点数会自动恢复或永久保留吗？
 

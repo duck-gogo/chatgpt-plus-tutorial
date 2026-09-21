@@ -14,7 +14,7 @@
 | [付款后账号状态不对](./account-status.md) | 充值成功但没 Plus 标识、App 与网页状态不一致、共享号失效 |
 | [网络与地区](./network-region.md) | 提示地区不支持、节点不稳导致的失败 |
 | [第三方订单](./order-pending.md) | 订单处理中较久、订阅到期续不上、退款规则 |
-| [Pro 20× 新开通与续订（Pro 仓库）](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md) | 两种账号范围与提交流程、覆盖周期、续订安排完成但到期日未变、扣款失败与订阅终止 |
+| [Pro 20× 回购、续订与恢复（Pro 仓库）](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md) | 官方回购资格与期限、新开通暂停与历史订单、正常／欠费续费及恢复验收 |
 | [回答质量异常](./chatgpt-answer-quality.md) | 回答变短、漏条件、长对话反复出错、文件读取异常 |
 
 ## 排查时的通用原则
