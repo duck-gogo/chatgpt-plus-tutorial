@@ -1,6 +1,6 @@
 # Codex 点数怎么充值？额度用完后的选择与注意事项（2026）
 
-> 最近更新：2026 年 9 月 21 日（本次更新 Pro 20× 可购范围、点数负余额与退款例外、Word 共享用量；Reset 说明保留原核对范围）
+> 最近更新：2026 年 10 月 13 日（本次更新 Pro 三档、Wallet 与自动充值边界；Reset、第三方交付及其他条款保留原核对范围）
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方点数充值服务介绍。PlusGO 并非 OpenAI 官方渠道，相关内容不代表 OpenAI 的推荐、认证或背书；账号能否购买、可用功能、余额和实际消耗以 OpenAI 账号页面为准。
 
@@ -33,7 +33,7 @@ OpenAI 将点数定义为套餐之外的按量补充。购买点数不会改变�
 
 **Word 也会影响共享用量。** 9 月 17 日新增的 ChatGPT for Word 支持在文档侧栏起草、总结和修改内容，包含 Free 在内的所有套餐均可使用，并非 Pro 独占。Plus / Pro 的 Word 与 Codex 等受支持功能共享 agentic allowance，套餐内用量耗尽后才按账号提供的点数选项继续；不是每个 Office 入口各送一份额度。[官方发布说明](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [共享用量说明](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)。
 
-9 月 9 日进入 Work / Codex 的 Deep Research 也使用既有 Work / Codex 用量或点数；普通 Chat 的 Deep Research 限额不变。普通 Chat 的 GPT-6 Pro 周额度是另一套规则，不要把购买 Codex 点数当成能解除 Chat 模型限额。[官方更新](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [GPT-6 Pro 限额](https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt/)。
+9 月 9 日进入 Work / Codex 的 Deep Research 也使用既有 Work / Codex 用量或点数；普通 Chat 的 Deep Research 限额不变。普通 Chat 的 GPT-6 Pro 周额度是另一套规则，不要把购买 Codex 点数当成能解除 Chat 模型限额。[官方更新](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [GPT-6 Pro 限额](https://help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt)。
 
 实际消耗取决于模型、任务复杂度、上下文、推理强度、运行位置和工具调用。不要把点数换算成固定的“可完成任务数”，也不要直接套用别人的消耗速度。
 
@@ -54,7 +54,7 @@ Codex、普通 ChatGPT 对话、文件上传、图像和语音可能使用不同
 ### 3. 是临时补充，还是长期高频使用
 
 - 偶尔在重置前差一点用量：少量点数更灵活；
-- 每个周期都稳定触顶：比较 Pro 5× 的完整费用与点数持续成本；官方常规 20× 新购与 PlusGO 新开通仍暂停，曾有 20× 时另核对回购／恢复资格，不默认补差升级或重置额度；
+- 每个周期都稳定触顶：比较 Pro 100 / 200 的完整费用与点数持续成本；新 Pro 200 不等于旧 20×，不默认补差或额度重置；
 - 页面已有可用 Banked Reset：先看有效期和影响范围，再决定是否使用；
 - 不着急：等待账号显示的正常重置时间，不产生额外费用。
 
@@ -65,6 +65,18 @@ OpenAI 当前说明，点数通常不可退款，但法律、合同要求或获�
 购买的点数自购买起有效 12 个月，过期不结转；点数不可转让、没有现金价值，也不能转售或赠送。
 
 ------
+
+## Wallet 余额与点数不是一回事
+
+**Usage credits** 用于受支持功能的额外用量；**Wallet** 是美元资金余额，兑换礼品卡不会直接增加点数，也不会自动买订阅。符合条件的网页单次点数购买，结账页可能抵扣 Wallet；先看实际抵扣金额和仍需支付的金额，没有显示就不要假定会扣钱包。
+
+Wallet 当前要求账号位于美国、以 USD 结账并符合购买资格，不用于 API 或 Apple / Google Play 订阅。个人与工作区余额分开，个人余额不用于创建新 Business 工作区的首次订阅，也不随合并转移；不要切换虚假地区或币种绕过资格。[官方 Wallet 说明](https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance)。
+
+## 自动充值开启前，先看默认付款方式
+
+账号若提供 automatic reload，可设最低余额、目标余额与月度自动支出上限；余额低于最低值时，默认付款方式会购买补到目标所需的点数。**开启时余额已低于最低值，可能立即扣款**，不是一定等下一次任务。
+
+月度上限只限制自动充值，不限制单次手动购买；自动充值买的是点数，不给 Wallet 充值，也不能按网页单次购买的 Wallet 抵扣规则推断自动充值来源。开启前检查设置和默认付款方式，确认支出后再保存。[官方点数与自动充值说明](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)。
 
 ## 官方购买与第三方充值有什么区别？
 
@@ -96,13 +108,13 @@ OpenAI Support 不会手动或礼貌性地赠送 Reset。若账号本应获得�
 | 情况 | 更值得先看 |
 |---|---|
 | 偶尔触顶，离重置只差一个临时任务 | 少量点数 |
-| 每个周期都触顶，长期做重任务 | 比较 Pro 5× 与点数持续成本；当前或曾有 20× 时另核对续费、回购／恢复资格 |
+| 每个周期都触顶，长期做重任务 | 比较 Pro 100 / 200 与点数持续成本，不按旧 20× 推算新额度 |
 | 账号显示有即将过期的 Banked Reset | 先核对并使用 Reset |
 | 不急，且不想增加支出 | 等待正常重置 |
 
 升级 Pro 会改变订阅档位和持续额度；购买点数不会改变方案，只补充受支持功能的额外使用。比较时应看一个完整周期的实际消耗，不要只看单次任务。
 
-准备长期使用时，可以继续比较 [Pro 的费用与购买条件](../README.md#pro)。官方常规 20× 新购／升级仍暂停，有效老用户可续费，符合条件的老用户可限时付费回购一次，见 [官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)。PlusGO 新开通当前暂停，续订／恢复另须核验，不保证用量全量重置。需求明确时可直接评估 5×，无需先买 Plus。
+准备长期使用时，比较 [Pro 三档与购买条件](../README.md#pro)。Pro 200 已恢复新订阅，新额度低于旧 20×；符合资格的旧额度只保留至 10 月 29 日。官方另有 Pro 500 / Ultrafast，PlusGO 当前该档暂停，低档购买点数也不解锁 Ultrafast。[官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。
 
 ------
 
@@ -137,6 +149,7 @@ OpenAI 当前向部分 Free / Go 用户提供点数购买能力，但是否开�
 ## 官方依据
 
 - [Using Credits for Flexible Usage in ChatGPT (Personal plans)](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-personal-plans)
+- [Using your ChatGPT wallet balance](https://help.openai.com/en/articles/20001508-using-your-chatgpt-wallet-balance)
 - [How banked Codex resets work](https://help.openai.com/en/articles/20001498-how-banked-codex-resets-work)
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540)
 - [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)

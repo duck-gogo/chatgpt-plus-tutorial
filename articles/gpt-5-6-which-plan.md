@@ -1,10 +1,10 @@
 # GPT-5.6 要额外付费吗？Plus 和 Pro 各能用到哪个型号（2026）
 
-> 最近更新：2026 年 9 月 21 日（本次更新 Pro 20× 购买范围与 Thinking 手动选择提醒；下方历史型号表日期不变）
+> 最近更新：2026 年 10 月 13 日（本次更新当前购买提醒与历史内容边界；GPT-5.6 型号表仍保留 2026 年 8 月 17 日范围）
 
-> 准备选购新模型时，先看 [GPT-6 Astra 发布后，Plus 和 Pro 怎么选](./gpt-6-astra-which-plan.md)。下文 GPT-5.6 档位表保留截至 2026 年 8 月 17 日的适用范围，不用于推断 Astra 权限。
+> **历史阅读范围：** 本页 GPT-5.6 型号、入口和能力说明保留截至 2026 年 8 月 17 日的历史范围，不能当作当前完整模型清单。GPT-6 已逐步进入普通 Chat，GPT-6.1 Sol 是 Work / Codex 的更新；新选购先看 [当前 GPT-6 / Astra 指南](./gpt-6-astra-which-plan.md)。下方购买提醒与 Pro 选档段落按 10 月 13 日更新。
 
-> **当前购买提醒：** 官方常规 Pro 20× 新订阅和升级仍暂停，有效老用户可续费，符合条件的老用户可限时付费回购一次，5× 不受此次暂停影响。PlusGO 新开通当前暂停，续订／恢复另须核验；不能只按历史型号表推断资格，详见 [Pro 账号范围与付款清单](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
+> **当前购买提醒：** Pro 200 新订阅已恢复，新额度低于旧 20×；符合资格的旧额度仅保留至 10 月 29 日。官方现有 Pro 100 / 200 / 500，PlusGO 当前 Pro 100 / 200 在售、Pro 500 暂停、旧续订商品隐藏。见 [Pro 新购与旧额度清单](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书；GPT-5.6 权益以 OpenAI 官方说明和账号页面为准。
 
@@ -14,7 +14,9 @@ GPT-5.6 在 2026 年 7 月 9 日正式公开发布，接着就是一大堆人问
 
 ------
 
-## 先说结论
+<a id="先说结论"></a>
+
+## 先说结论（GPT-5.6 历史范围）
 
 - **已经是 Plus 的，不用额外付费。** GPT-5.6 Sol 已进入 Plus 权益，Chat 里的 Instant、Medium、High 均由 Sol 驱动。
 - **免费号和 Go，在标准 ChatGPT 对话里拿不到 GPT-5.6 Sol。** GPT-5.6 Luna 正逐步成为默认体验，Instant 和 Think 均由 Luna 提供；Free 和 Go 可在 Codex 中使用 Terra，ChatGPT Work 仅提供受限使用。
@@ -49,7 +51,7 @@ GPT-5.6 在 2026 年 7 月 9 日正式公开发布，接着就是一大堆人问
 
 官方依据：[GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt) · [ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)
 
-> **Free / Go 限额边界：** OpenAI 当前说明 Free / Go 可不限量进行日常文本聊天（仍受防滥用保护）；文件上传、图像生成、语音、数据分析和其他工具另有额度。Think 使用 Luna，具体推理额度以账号页面显示为准。
+> **历史 Free / Go 边界：** 当时的日常文本、工具与推理额度分别计量；不能从旧型号表推出当前入口或无限工具用量，现况看账号页面。
 
 几点补充：
 
@@ -59,7 +61,7 @@ GPT-5.6 在 2026 年 7 月 9 日正式公开发布，接着就是一大堆人问
 - **GPT-5.6 的 Pro 选项**使用 Sol Pro，不包含在 Plus，包含在 Pro、Business 和 Enterprise。当前模型菜单的 Pro 还可包含 GPT-6 Pro，不能再把所有 Pro 选项都等同于 Sol Pro；见 [Astra 入口说明](./gpt-6-astra-which-plan.md)。
 - Free 和 Go 的标准 ChatGPT 不包含 GPT-5.6 Sol；它们的 Instant 和 Think 使用 Luna。Free 和 Go 可受限使用 ChatGPT Work，并可在 Codex 中使用 Terra；Work、Codex 和标准 ChatGPT 对话的型号范围并不相同。
 
-> OpenAI 当前仍将 GPT-5.6 标记为逐步开放。看不到入口时，先确认自己所在的是 Chat、ChatGPT Work 还是 Codex，再核对账号档位、工作区权限和页面提示；入口缺失本身不能直接证明充值没有到账。
+> 当前入口缺失时，先区分 Chat、Work 与 Codex，再查账号、客户端及权限；不能据此认定付款未到账，也不继续沿用 8 月的逐步开放状态作当前结论。
 
 ------
 
@@ -69,7 +71,7 @@ GPT-5.6 在 2026 年 7 月 9 日正式公开发布，接着就是一大堆人问
 
 Plus 的订阅关系没有变化，GPT-5.6 Sol 是加进来的权益，不是新商品。你不需要退订重买，也不需要补差价。到期照常续费即可。
 
-Plus 的 Instant 已由 Sol 驱动；需要手动选择推理强度时，可使用 Medium 或 High。如果入口仍缺失，按上面的使用界面、账号档位和设置逐项核对。
+上述 Instant / Medium / High 是当时 GPT-5.6 的说明。当前 Latest 已逐步转为 GPT-6，明确选择 GPT-5.6 Sol 的旧对话保留该模型；以实际选择器为准，不必退订重买。
 
 > **9 月 14 日交互变化：** Plus / Pro 的普通 Chat 不再自动从 Instant 切换到 Thinking，网页端 Higher intelligence 设置也已移除；安全用途的自动切换仍可能发生。复杂任务需要更长推理时，手动选择账号可用的推理档位，不要仅凭“秒回”判断降智或追加购买。[官方更新记录](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [回答质量排查](../troubleshooting/chatgpt-answer-quality.md)。
 
@@ -80,40 +82,39 @@ Plus 的 Instant 已由 Sol 驱动；需要手动选择推理强度时，可使�
 先看 Pro 比 Plus 在 GPT-5.6 上多出来的到底是什么：
 
 1. **Extra High 和 Sol Pro**，适合更困难或更长时间运行的任务。
-2. **更高的使用额度**；Pro 5× 和 Pro 20× 核心能力相同，主要区别是相对 Plus 的用量倍数。
+2. **更高的使用额度**；这里比较的是当时的 Pro 5× / 20×，不能套到当前 Pro 200 新购额度。
 
 除此之外，Chat 里的 Sol，Plus 和 Pro 用的是同一个。
 
 所以判断标准很直接：
 
 - **主要在 Chat 里聊天、写东西、看文件** → 通常先用 Plus；它已经包含 Sol 的 Instant、Medium、High，是否升级主要看 Extra High、Sol Pro 和额度需求。
-- **拿它做复杂的长任务、写代码跑 agent，明确需要更多用量或 Pro 功能** → 可以直接评估 Pro 5×，无需先购买 Plus；官方常规 20× 新购与 PlusGO 新开通仍暂停，老用户回购／恢复另有条件。选择时核对模型入口、实际使用量和预算。
+- **长期做复杂任务、编码或文件工作** → 现在可直接比较 Pro 100 / 200；新 Pro 200 不是旧 20×，按实际模型入口、Usage 与预算选择。
 
-想更细地对比 Plus 和 Pro 的额度、适用人群，见主教程的 [Pro 5× / 20× 怎么选](../README.md#pro)。
+当前选档见 [Pro 三档与换档提醒](../README.md#pro)，不要按上面的历史能力表推断新额度。
 
 ------
 
 ## Pro 5× 和 20× 怎么选？能否中途切换？
 
-OpenAI 的两个 Pro 用量档位仍可比较；下表的暂停范围指官方常规入口，PlusGO 商品另见表后说明：
+当前官方有 Pro 100 / 200 / 500 三档，Pro 200 新订阅已恢复。不要按旧 5× / 20× 标签推算当前新购权益：
 
-| 对比项 | Pro 5× | Pro 20× |
-|---|---|---|
-| 官方价格 | $100 / 月 | $200 / 月 |
-| 官方购买范围 | 新购、升级与续费不受此次暂停影响 | 常规新购和升级暂停；有效订阅可续费，符合条件的老用户可回购一次 |
-| 核心能力 | 与 20× 相同 | 与 5× 相同 |
-| 整体用量 | 相对 Plus 为 5× | 相对 Plus 为 20× |
-| 更适合 | 已经需要 Pro 能力，但用量相对可控 | 需要长期运行复杂任务、用量较大；另核对购买资格 |
+| 对比项 | Pro 100 | Pro 200 | Pro 500 |
+|---|---|---|---|
+| 官方美元月价 | $100 / 月 | $200 / 月 | $500 / 月 |
+| 购买与额度 | 按账号结账页确认 | 新订阅已恢复；新额度低于旧 20× | 按账号结账页确认 |
+| Pro 档位中的 Ultrafast | 不包含 | 不包含 | 包含，消耗更快 |
+| PlusGO 当前商品 | 在售 | 在售，新购不是旧 20× | 暂停销售 |
 
-这里的 5× / 20× 是 OpenAI 对方案用量的总体描述，不应理解为每个模型都有一套完全相同的固定次数。官方说明还指出，部分模型有单独额度，不同 Pro 档位的额度可能不同；到达上限时，应以 ChatGPT 显示的重置时间为准。
+新购 Pro 200 的额度低于旧 $200 方案；符合历史资格且订阅有效的旧额度仅保留至 **2026 年 10 月 29 日**。用量关系和重置以账号显示为准，不承诺固定次数或工作时长。
 
 **官方订阅与第三方商品分别确认。** 通过 OpenAI 管理的官方订阅，可以在 `Settings → My Plan` 核对可选档位、调整金额、账单周期和生效时间，再决定是否更改；不要把“可切换”理解成所有购买方式都能补差价。
 
-官方常规 5× 升级到 20× 与 PlusGO 新开通仍暂停。曾有 20× 的用户可另核对官方一次性回购或第三方恢复资格，不是任意 Free / Go / Plus / Pro 5× 都能购买。PlusGO 的 5× 覆盖不叠加旧时长；20× 正常续费保留剩余时间，欠费续费与恢复按核验说明和账号显示验收。详细边界见 [Pro 换档提醒](../README.md#pro)。
+PlusGO 当前 Pro 100 / 200 在售，Pro 500 暂停、旧续订商品隐藏。按购买页确认账号条件，如要求核验先完成再付款；付款后仍须回原订单确认提交。覆盖不叠加旧时长，历史续订／恢复按原约定验收，不延长旧额度截止日。详见 [Pro 换档提醒](../README.md#pro)。
 
-选择时先问是否需要 Extra High / Sol Pro，以及过去是否经常触及限额。新用户先评估可购的 5×；已有 20× 则在续费前评估后续需求。不要为重置用量取消 20×；权益结束后的官方一次性回购有历史资格、30 天期限和次数限制，第三方恢复也不保证可受理。
+先确认所需模型与功能，再看实际用量和预算；换档不能默认补差或重置全部额度。旧资格窗口与截止日见 [详细清单](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#official-return)，不再用一次性 30 天回购规则。
 
-官方依据：[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)
+官方依据：[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 
 ------
 
@@ -134,14 +135,16 @@ PlusGO 是一种第三方服务案例，其购买与售后说明见[主教程的
 
 ## 常见问题
 
+下面的 GPT-5.6 能力问答沿用 8 月 17 日历史范围；当前选档和入口以 [GPT-6 / Astra 指南](./gpt-6-astra-which-plan.md) 为准。
+
 **Q：GPT-5.6 是免费的吗？**
-Free 用户的标准 ChatGPT 正逐步获得 GPT-5.6 Luna 默认体验，Instant 和 Think 均使用 Luna；不包含 GPT-5.6 Sol。Codex 可使用 Terra，ChatGPT Work 仅提供受限使用。想在标准 ChatGPT 对话里使用 Sol，需要 Plus 及以上。
+按当时说明，Free 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna，Instant 和 Think 使用 Luna，不包含 5.6 Sol；Codex 可用 Terra，Work 受限。这不是当前完整型号清单，实际入口另查选择器。
 
 **Q：Go 档位能用 GPT-5.6 吗？**
-Go 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna 默认体验，Instant 和 Think 均使用 Luna；不包含 GPT-5.6 Sol。Codex 可使用 Terra，ChatGPT Work 仅提供受限使用。
+按当时说明，Go 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna，Instant 和 Think 使用 Luna，不包含 5.6 Sol；Codex 可用 Terra，Work 受限。当前型号与开放状态以选择器为准。
 
 **Q：我充了钱，为什么模型列表里还是没有 GPT-5.6？**
-先确认当前是在 Chat、ChatGPT Work 还是 Codex，再核对账号档位、工作区权限和页面提示。OpenAI 当前仍将 GPT-5.6 标记为逐步开放；订阅状态正常但入口仍缺失时，以账号页面提示或官方支持答复为准。
+先区分当前 Chat、Work 与 Codex，再看选择器和账号权限；Latest 已逐步进入 GPT-6，明确选择 GPT-5.6 的对话则单独核对。订阅正常但入口缺失，以账号提示或官方支持答复为准。
 
 **Q：Luna 是不是最强的？**
 不是。Luna 的官方定位是最快、成本最低；Terra 平衡能力、速度与成本；Sol 面向更复杂的任务。选择时应按场景，而不是把三者简单理解成固定排名。
@@ -150,10 +153,10 @@ Go 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna 默认体验，Instant 和 Thi
 不能。Plus 当前包含 Sol 的 Instant、Medium、High；Extra High 和 Sol Pro 包含在 Pro、Business 和 Enterprise。
 
 **Q：Pro 5× 买完后可以切换到 20× 吗？**
-官方常规升级与 PlusGO 新开通仍暂停；曾有 20× 的用户另核对官方回购或第三方恢复资格，不能只凭当前是 5× 就判断可购买。详见 [当前购买条件](../README.md#pro)。有效 20× 老用户先核对续订安排，不要为重置额度取消后重买。
+Pro 200 新订阅已恢复；官方变更费用、剩余价值与生效时间看自己的确认页，第三方购买条件另核对。新购不是旧 20×，不保证补差或全量重置。见 [当前购买条件](../README.md#pro)。
 
 **Q：为了用 Codex，一定要升 Pro 吗？**
-不需要。Plus 已包含 Codex 以及 GPT-5.6 Sol、Terra、Luna；Pro 主要提供 5× 或 20× 的更高 Codex 使用额度，并额外包含当前为 Pro 专属的 GPT-5.3-Codex-Spark 研究预览。研究预览和额度可能变化，购买前应核对 [ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)。
+不需要。Plus 已包含 Codex 和符合权限的 GPT-6.1 Sol / Astra 等模型；当前入口、用量及 Pro 功能见 [Codex 选档](../README.md#codex)。本页历史 GPT-5.6 清单和研究预览不用于推断当前完整权益。
 
 ------
 
@@ -162,7 +165,7 @@ Go 的标准 ChatGPT 正逐步获得 GPT-5.6 Luna 默认体验，Instant 和 Thi
 - 当前模型选购：[GPT-6 Astra 发布后，Plus 和 Pro 怎么选](./gpt-6-astra-which-plan.md)
 - 公司采购：[Plus / Pro / Business 报价、合同与付款清单](./chatgpt-enterprise-procurement.md)
 - 官方档位、入口和回退说明：[GPT-5.6 in ChatGPT](https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt)
-- Pro 5× / 20× 权益与切换规则：[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans)
+- 当前 Pro 三档与历史额度：[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 - ChatGPT 更新记录：[ChatGPT Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 - Work / Codex 型号和用量：[ChatGPT Work / Codex 定价与用量](https://learn.chatgpt.com/docs/pricing)
 - 回到主教程：[ChatGPT 充值 / 代充教程](../README.md)

@@ -1,6 +1,6 @@
 # <p align="center">2026 年 ChatGPT Plus / Pro 充值代充教程：GPT-6 Astra 选档、支付宝 / 微信付款与企业采购</p>
 
-<p align="center">本教程最新更新时间：2026 年 9 月 21 日 · 本次更新 Pro 20× 回购与续订／恢复、当前商品范围、Thinking、点数及 Word 场景</p>
+<p align="center">本教程最新更新时间：2026 年 10 月 13 日 · 本次更新 Pro 三档、新旧额度及销售范围、当前模型、点数与账号排查</p>
 
 > **广告 / 商业披露：** 本文包含 PlusGO 的第三方服务介绍及购买链接。PlusGO 并非 OpenAI 官方订阅渠道，相关内容不代表 OpenAI 的推荐、认证或背书。第三方付款或交付不能改变 ChatGPT 的地区可用性；使用前请核对 [OpenAI 支持国家和地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories) 与 [OpenAI 使用条款](https://openai.com/policies/row-terms-of-use/)。
 
@@ -8,9 +8,9 @@
 
 **建议收藏 + Star 本 ChatGPT 充值教程，方便随时回来查，也防止丢失。**
 
-> **9 月 21 日购买提醒：** OpenAI 的 Pro 20× 常规新订阅与升级仍暂停，有效老用户可续费，符合条件的老用户可在权益结束后 30 天内付费回购一次；Pro 5× 不受此次暂停影响。PlusGO 的 20× 新开通当前暂停，另提供经核验的“续订·恢复开通”。官方与第三方条件分开看，详见 [Pro 回购、续订与恢复指南](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
+> **当前购买提醒：** OpenAI 的 Pro 200 已恢复新订阅，但新购不等于旧 20×；符合资格的旧额度仅保留至 **2026 年 10 月 29 日**。官方现有 Pro 100 / 200 / 500 三档。PlusGO 当前 Pro 100 / 200 在售，旧续订商品隐藏、Pro 500 暂停；按购买页确认条件，如要求核验，先完成再付款。详见 [Pro 新购与旧额度指南](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
 
-每天用 ChatGPT 或 Codex 做项目，我会先比较套餐的使用空间，再选付款方式。轻量写作、问答可以看 Plus；已经明确需要持续运行复杂任务，可以比较 Pro 5×；当前或曾经有 20× 的用户，再核对续费、官方回购或第三方恢复条件。由公司付款的还要提前确认账号安排、报价和凭证要求。
+每天用 ChatGPT 或 Codex 做项目，我会先比较套餐的使用空间，再选付款方式。轻量写作、问答可以看 Plus；持续运行复杂任务可直接比较 Pro 100 / 200。旧 20× 用户另核对资格窗口与 10 月 29 日截止日，不把商品旧名称当成新购权益。公司付款还需提前确认报价、账号与凭证要求。
 
 这份教程整理 Astra 发布后的套餐选择、个人订阅与企业采购、支付方法和常见排障。已选好套餐、只想了解支付宝或微信付款，可以跳到 [第三方自助代充](#method-topup)，先看账号凭证、支持地区和售后边界。
 
@@ -19,8 +19,8 @@
 ## 📚 目录
 
 - [GPT-6 Astra 发布后，先看什么](#astra)
-- [Plus、Pro 5× / 20×、Business 怎么选](#plans)
-- [Pro 5× / 20×：用量、价格与换档提醒](#pro)
+- [Plus、Pro 100 / 200 / 500、Business 怎么选](#plans)
+- [Pro 三档：用量、价格与换档提醒](#pro)
 - [公司统一采购 Plus / Pro / Business](#enterprise)
 - [先说结论（一句话）](#summary)
 - [方法一：信用卡 / 借记卡直接订阅](#method-card)
@@ -48,9 +48,11 @@
 
 GPT-6 Astra 已发布，适合涉及代码、应用和研究的多步骤任务。准备使用前，先确认账号里的模型入口和剩余用量；开放进度、登录方式、客户端及工作区权限都会影响是否可用。[Astra 更新说明](https://learn.chatgpt.com/docs/whats-new)、[模型与可用性](https://learn.chatgpt.com/docs/models)。
 
-**Plus 用户不用为了 Work / Codex 中的 Astra 退订重买。** Plus 已包含这两个入口的 Astra；普通 Chat 中的 GPT-6 Pro 由 Astra 驱动，当前包含在 Pro 5×、20×、Business 和 Enterprise，不包含在 Plus。工作区权限和客户端仍需核对。[官方模型与套餐范围](https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt/)。
+**Plus 用户不用为了 Work / Codex 中的 Astra 退订重买。** Plus 已包含这两个入口的 Astra；普通 Chat 的 GPT-6 Pro 由 Astra 驱动，当前包含在 Pro 三档与符合权限的 Business / Enterprise，不包含在 Plus。[官方模型与套餐范围](https://help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt)。
 
-普通 Chat 的 GPT-6 Pro 有独立规则，不能把 Pro 的 5× / 20× 用量倍数套成 Chat 次数。Work 与 Codex 共享另一套用量，模型、任务和推理设置影响消耗。[套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+普通 Chat 的 GPT-6 Pro 有独立限额，不能把 Pro 的商品用量标签套成 Chat 次数。Work 与 Codex 共享另一套用量，模型、任务与推理设置影响消耗。[套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+
+**当前模型更新：** 10 月 7 日起 GPT-6 逐步进入普通 Chat，付费档位的 GPT-6 Sol 选项按账号权限开放；Pro 选项由 Astra 驱动。Latest 会使用新模型，明确选定 GPT-5.6 Sol 的旧对话仍保留 5.6。GPT-6.1 Sol 是 Work / Codex 的更新，不直接等于普通 Chat 同名权益；Free / Go 及各客户端仍以实际选择器为准。[官方更新记录](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)。
 
 我会先用一个实际任务判断：现有套餐能否完成工作、是否经常在重置前用完，再决定是否升级。具体排查与选择见 [GPT-6 Astra 发布后，Plus 和 Pro 怎么选](./articles/gpt-6-astra-which-plan.md)。
 
@@ -58,14 +60,16 @@ GPT-6 Astra 已发布，适合涉及代码、应用和研究的多步骤任务�
 
 <a id="plans"></a>
 
-## Plus、Pro 5× / 20×、Business 怎么选
+<a id="pluspro-5--20business-怎么选"></a>
+
+## Plus、Pro 100 / 200 / 500、Business 怎么选
 
 | 当前需求 | 优先比较 | 付款前确认 |
 |---|---|---|
 | 偶尔问答、写作、翻译或每周几次集中工作 | Plus | 现有额度是否已经够用 |
-| 每天持续处理代码、研究或文件，明确需要更多用量 | Pro 5× | 常用模型、任务消耗与预算；无需先购买 Plus |
-| Pro 5× 已反复在重置前耗尽，接下来仍有密集工作 | 分清限额类型，比较重置、任务设置与点数 | 官方常规升级及 PlusGO 新开通仍暂停；曾有 20× 时另核对回购／恢复资格，不默认补差或额度重置 |
-| 已有有效 Pro 20×，准备继续使用 | 到期前安排续订 | 官方一次性回购有资格、次数与期限限制，不要为重置额度先取消再买 |
+| 每天持续处理代码、研究或文件，明确需要更多用量 | Pro 100 / 200 | 模型、任务消耗与预算；无需先购买 Plus |
+| Pro 100 已反复在重置前耗尽，接下来仍有密集工作 | 比较 Pro 200、点数与任务设置 | Pro 200 新购已恢复，但不是旧 20×；不默认补差或额度重置 |
+| 符合旧 Pro 20× 资格，准备继续使用 | 核对续费及后续新额度 | 旧额度仅保留至 10 月 29 日，续费不代表永久保留 |
 | 公司付款，员工分别使用个人账号 | 按人选择 Plus / Pro | 报价、采购周期、合同、付款及发票要求 |
 | 团队需要统一工作区与成员管理 | Business | 席位版本、人数、数据要求与管理员权限 |
 
@@ -75,26 +79,27 @@ GPT-6 Astra 已发布，适合涉及代码、应用和研究的多步骤任务�
 
 <a id="pro"></a>
 
-## Pro 5× / 20×：用量、价格与换档提醒
+<a id="pro-5--20用量价格与换档提醒"></a>
+
+## Pro 三档：用量、价格与换档提醒
 
 如果已经明确每天都要用 ChatGPT 或 Codex 持续工作，可以直接比较 Pro；不必先买 Plus 再等它用满。轻量使用或尚未形成稳定需求时，Plus 仍是可以考虑的选择。
 
-| 对比项 | Pro 5× | Pro 20× |
-|---|---|---|
-| 官方美元月价 | $100 / 月 | $200 / 月 |
-| 官方购买状态 | 新订阅、升级和续费不受此次暂停影响 | 常规新订阅与升级暂停；有效订阅可续费，符合条件的老用户可回购一次 |
-| PlusGO 当前商品 | 新购／覆盖 | 新开通当前暂停；续订／恢复开通须核验 |
-| Work / Codex 标称用量 | 相对 Plus 的 5× 档 | 相对 Plus 的 20× 档 |
-| 更适合 | 已确定需要 Pro，任务之间有间歇 | 持续密集工作、确实需要较大用量；另核对购买资格 |
-| 主要取舍 | 总支出较低 | 更多使用余量，总支出更高 |
+| 对比项 | Pro 100 | Pro 200 | Pro 500 |
+|---|---|---|---|
+| 官方美元月价 | $100 / 月 | $200 / 月 | $500 / 月 |
+| 官方购买状态 | 可订阅，按结账页确认 | 已恢复新订阅；额度低于旧 20× | 可订阅，按结账页确认 |
+| PlusGO 当前商品 | 在售，原 5× | 在售，原 20×；新开通标为 10× | 暂停，页面标为 25× |
+| 选档重点 | 预算与持续工作量 | 更密集工作及新额度是否够用 | 高用量与 Ultrafast 需求 |
+| Pro 档位中的 Ultrafast | 不包含 | 不包含 | 包含，消耗更快 |
 
-两档主要区别是用量，单项功能仍可能有不同限制。5× / 20× 不代表固定消息数、固定工作时长或结果质量倍数；模型、上下文、推理强度和工具调用都会影响消耗。美元参考价与第三方人民币报价分开比较，实际费用以结账页为准。[官方套餐与用量](https://learn.chatgpt.com/docs/pricing)。
+三档的用量与部分功能不同；第三方 5× / 10× / 25× 标签不是固定消息数、工作时长或结果质量倍数。“原 20×”也不是当前新购用量。模型、上下文、推理强度和工具调用影响消耗；官方美元参考价与第三方人民币报价分开看。[官方 Pro 三档](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) · [套餐与用量](https://learn.chatgpt.com/docs/pricing)。
 
-我会在付款前记录当前套餐、剩余用量、重置时间和接下来的任务。5× 开通、20× 回购或续订／恢复及报价入口统一见 [ChatGPT Pro 充值教程](https://github.com/duck-gogo/chatgpt-pro-tutorial)。PlusGO 的当前可售范围看 [购买页](https://plusgo.pro/purchase?sku=pro_max&utm_source=github01&utm_medium=readme&utm_campaign=pro_202609) 与 [实时商品目录](https://api.plusgo.pro/api/public/catalog)，不沿用旧公告的新开通介绍。
+我会在付款前记录当前套餐、Usage、重置时间与后续任务。完整比较和购买步骤见 [ChatGPT Pro 充值教程](https://github.com/duck-gogo/chatgpt-pro-tutorial)。第三方当前可售范围看 [购买页](https://plusgo.pro/purchase?sku=pro_max&utm_source=github01&utm_medium=readme&utm_campaign=pro_202609) 与 [实时商品目录](https://api.plusgo.pro/api/public/catalog)，不沿用旧公告。
 
-> **官方回购例外：** 2026 年 9 月 10 日仍有 20× 权益，或权益在此前 30 天内结束的老用户，若尚未使用一次性机会，可在自己的权益结束后 30 天内用同一账号到官方定价页付费回购。不是全面恢复新购，最终资格看 [官方 Pro FAQ](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans) 与账号页面，完整步骤见 [回购清单](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#official-return)。
+> **旧额度资格与截止日：** 同一账号在 2026 年 9 月 22 日至 9 月 29 日太平洋时间上午 10 点之间曾有有效 Pro 200，符合资格且订阅有效时旧额度保留至 **10 月 29 日**，之后额度降低，月价仍为 $200。旧的一次性 30 天回购规则不再用作当前购买条件，见 [官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) 与 [详细清单](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md#official-return)。
 
-> **第三方周期另核对：** PlusGO 的 20× 新开通当前暂停。正常续费保留剩余时间，在到期扣费成功后接续 1 个月；欠费续费和恢复开通按核验说明与 ChatGPT 账号显示验收，不一律从原到期日接续。恢复须通过核验，并自行确认官方套餐页可订阅 20×；灰色不可选或仅显示“添加额度”时不要下单。Pro 5× 覆盖不叠加原剩余时间，Codex 额度不保证全量重置。
+> **第三方条件另核对：** 当前 PlusGO Pro 100 / 200 在售，Pro 500 暂停，旧 20× 续订商品隐藏。购买页如要求核验，先核验并确认账号再付款；当前未统一要求，不表示任意账号可用。付款后仍需回原订单明确提交。覆盖不叠加旧时长、用量不保证全量重置；历史续订／恢复订单按原约定处理，不延长官方旧额度截止日。
 
 如果只是偶尔在重置前缺少额度，还可以比较等待重置或 [额外点数](./articles/codex-credits-recharge-guide.md)。公司承担费用时，继续看 [统一采购](#enterprise) 或 [Pro 报销凭证](./articles/chatgpt-pro-company-reimbursement.md)。
 
@@ -106,7 +111,7 @@ GPT-6 Astra 已发布，适合涉及代码、应用和研究的多步骤任务�
 
 公司统一付款，可以为员工分别采购个人 Plus / Pro，也可以采购 Business 工作区席位。先确认使用与管理需求，再决定产品，不必因为“多人采购”就给所有人买同一档。
 
-- **各自账号使用**：按成员需求比较 Plus、Pro 5×；PlusGO 的 20× 新开通当前暂停，正常续费、欠费续费与恢复需求分列询价，逐个核验账号，批量范围咨询时确认。
+- **各自账号使用**：按成员需求比较 Plus、Pro 100 / 200；Pro 500 当前暂停、旧续订商品隐藏，历史订单单列处理。批量范围、账号条件、周期与交付咨询时确认。
 - **统一工作区管理**：比较 Business Standard / Premium 的席位和权限；它与个人 Pro 是不同产品。
 - **采购手续**：先列套餐、账号或席位数量、周期和预算，再确认报价、合同主体、对公付款、发票及交付安排。
 
@@ -176,7 +181,7 @@ PlusGO 的企业采购可沟通上述产品、报价、合同、对公付款与�
 
 PlusGO 当前购买页说明支持开具**增值税电子普通发票**和公对公付款；能否报销、入账以及还需哪些材料，仍由公司财务结合真实业务审核。
 
-ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。官网订阅通常提供境外 invoice；它并非天然不能报销或入账，能否报销、税前扣除以及需要哪些补充材料，取决于业务真实性、公司制度和财税口径。国内增值税发票通常更方便走公司流程，但也不能替代公司财务审核。
+ChatGPT Pro 官方月价为 **Pro 100 $100、Pro 200 $200、Pro 500 $500**；新 Pro 200 不等于旧 20×。官网订阅通常提供境外 invoice，并非天然不能报销或入账；接受哪些凭证、是否税前扣除由公司制度与财税口径确认。国内发票也不能替代财务审核。
 
 - **发票类型：** 增值税电子普通发票（电子普票），可作公司报销凭证。
 - **支持公对公：** 可走对公付款，方便走公司账、报销入账。
@@ -194,10 +199,10 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 下面以 PlusGO 当前购买页为例；其他服务按对应订单条件执行。
 
 1. 先确认自己的 ChatGPT 账号能正常登录。
-2. 选择适合自己的套餐。PlusGO 的 Pro 20× 新开通当前暂停；“续订·恢复开通”须先核验，恢复还需自行确认官方套餐页可订阅 20×，状态不明先联系客服。
+2. 选择当前在售商品，核对账号条件、周期和覆盖影响；如购买页要求核验，先完成并确认账号再付款。旧 20× 续订商品当前隐藏，历史订单继续按原约定处理。
 3. 用支付宝或微信付款。
-4. 回到原订单，核对目标账号并明确确认提交；20× 更新 Session 时须按页面重新核验、确认。覆盖充值的剩余时间影响应提前读清，不要等后续再找二次覆盖按钮。临时会话凭证虽然不是密码，仍可能允许访问账号，需评估第三方的账号安全与条款风险。
-5. 等待原订单结果并核对套餐与有效期。20× 正常续费的“续订安排已完成”不代表到期日立即延长，需在到期扣费成功后验收新周期；欠费续费和恢复开通另按核验说明与账号显示验收。长时间没变化时凭订单号联系售后，不重复购买。
+4. 回到原订单，核对目标账号并明确确认提交；更新 Session 时只用该订单入口，按实际提示核验、确认。覆盖影响提前读清；临时会话凭证虽不是密码，仍可能允许访问账号，需评估第三方的账号安全与条款风险。
+5. 查询原订单并核对套餐与有效期；历史正常续订需区分安排完成与到期扣费成功，欠费续费与恢复按原说明验收。额度另查 Usage，不把订阅周期接续当成旧额度永久保留。异常凭订单号联系售后，不重复买。
 
 ### 代充这条路的优缺点
 
@@ -338,13 +343,13 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ### Q6：充值成功后没看到 Plus 怎么办？
 
-先做三件事：①完全退出账号重新登录，或换无痕模式；②确认你充的是哪个邮箱；③进 Settings → Plan 看订阅状态。超过订单页承诺的处理时间仍没有变化，就拿订单号联系平台售后，别反复重新下单。
+先在 **退出前**查看 Settings → Account，确认购买账号邮箱和登录方式，收据邮箱可能不同。Apple 隐藏邮箱账号用原 Apple 账号的“继续使用 Apple”；确认后再退出重登，App 内购可按 Restore purchases 同步。仍无变化查询原订单并联系对应渠道，不反复下单。[官方排查顺序](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) · [账号状态排查](./troubleshooting/account-status.md)。
 
 ### Q7：到期了怎么续费？会自动扣款吗？
 
 官网或 App Store 订阅通常按对应订阅页面自动续费，第三方商品按本次订单约定交付。PlusGO 当前公开 Plus 商品仅有月充，3 个月和 12 个月组合已停止新售；历史多月订单仍按原约定查询和处理。第三方多月服务不等于 OpenAI 官方年付或一次预付多个月。
 
-**想保留 Pro 20×，有效时先确认原渠道续费安排。** 权益结束后，符合条件的老用户有一次限时付费回购机会，不是所有账号都能恢复。PlusGO 新开通当前暂停，续订／恢复另须核验，详见 [20× 回购与续订指南](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
+**Pro 200 新订阅已恢复，但新购不是旧 20×。** 符合资格的旧额度仅保留至 10 月 29 日；续费接续周期不保证旧额度永久延续。当前第三方商品与历史订单分开核对，详见 [新购与旧额度指南](https://github.com/duck-gogo/chatgpt-pro-tutorial/blob/main/articles/pro-20x-pause-and-renewal.md)。
 
 ### Q8：充值成功后能退款吗？
 
@@ -360,7 +365,7 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ### Q11：Astra 发布后一定要购买 Pro 吗？
 
-不一定。Plus 已包含 Work / Codex 中的 Astra；普通 Chat 的 GPT-6 Pro 则包含在 Pro 及符合条件的组织方案，不包含在 Plus。需要普通 Chat 的 Pro 模型或更多 Work / Codex 用量时可评估 Pro，但官方常规 20× 新购与 PlusGO 新开通仍暂停，老用户回购／恢复另有条件。订阅正常但缺入口时，先检查客户端与权限。详见 [Astra 入口与限额](./articles/gpt-6-astra-which-plan.md)。
+不一定。Plus 已包含 Work / Codex Astra；普通 Chat 的 GPT-6 Pro 不包含在 Plus。需要 Chat Pro 模型或更多用量时可评估 Pro 三档，当前 PlusGO Pro 100 / 200 在售、Pro 500 暂停；新购 Pro 200 不等于旧 20×。入口缺失先查客户端和权限，见 [Astra 选档](./articles/gpt-6-astra-which-plan.md)。
 
 ------
 
@@ -402,7 +407,7 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ### 8. 充值成功了，但账号没有 Plus 标识
 
-先做三件事：①完全退出重新登录，或换无痕；②确认你充的是哪个邮箱；③进 Settings → Plan 看订阅状态。官网或 App 内购可检查收据和订阅记录；第三方订单超过页面承诺时间时，凭订单号联系售后。
+退出前先核对 Settings → Account 的购买账号与原登录方式，不能只凭收据邮箱判断；Apple 隐藏邮箱应使用原 Apple 登录。确认后再退出重登，App 内购可 Restore purchases；仍异常联系原渠道，不重复购买。详细步骤见 [账号状态排查](./troubleshooting/account-status.md)。
 
 ### 9. "Your account has been deactivated" / 账号已封禁
 
@@ -410,7 +415,7 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 ### 10. App 端和网页端 Plus 状态不一致
 
-有时网页端已显示 Plus，App 端还没刷新；也可能 App 登录了另一个邮箱。先退出 App 重新登录，再确认邮箱。仍不同步就等一会儿，不要马上重复购买。
+先确认 App 与网页是同一账号和原登录方式，再检查订阅来源；Apple 隐藏邮箱可能显示私密转发地址，收据邮箱可能不同。确认后再重登，App 内购可 Restore purchases；仍异常查询原渠道，不马上重复购买。
 
 ### 一句话总结
 
@@ -424,9 +429,9 @@ ChatGPT Pro 现在有 **$100 / 月的 5× 档**和 **$200 / 月的 20× 档**。
 
 Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；选择时看实际使用强度和所需模型。Astra 在符合条件的客户端与账号逐步开放，入口不能只根据套餐名称推断；Work 和 Codex 共享用量。
 
-- **Free / Go**：包含受限的 Codex 使用，可使用 GPT-5.6 Terra；适合先体验或偶尔处理轻量编码任务。
-- **Plus**：包含 Codex 多个入口及 GPT-5.6 Sol、Terra、Luna；Astra 的具体可用性与限额需在所用客户端核对，适合用量较轻的集中工作。
-- **Pro 5× / 20×**：适合持续编码、研究或文件任务，主要增加相对 Plus 的用量；当前还包含 Pro 专属的 **GPT-5.3-Codex-Spark 研究预览**，研究预览另有额度。
+- **Free / Go**：包含受限体验；实际型号和入口按账号、客户端与开放进度确认，不把旧型号表当作当前完整清单。
+- **Plus**：包含 Codex 与 Work 的 GPT-6.1 Sol、GPT-6 Astra 等符合权限的模型，具体以选择器为准；适合用量较轻的集中工作。
+- **Pro 100 / 200 / 500**：比较持续编码、研究或文件任务所需的用量与功能；Pro 500 的 Ultrafast 不由 Pro 100 / 200 购买点数解锁。Chat 与 Work / Codex 分开核对限额。
 - **API Key**：属于单独的按量计费路径，不继承 ChatGPT 订阅额度，也不包含 GitHub 代码审查等云端订阅功能。
 
 > **2026 年 8 月 31 日模型迁移：** 使用 ChatGPT 账号登录 Codex 时，GPT-5.4 和 GPT-5.4 mini 已不再可用。工作区默认值、保存的模型设置、托管配置或自动化应分别改用 **GPT-5.6 Terra** 和 **GPT-5.6 Luna**。这不影响 OpenAI API，也不影响使用自有 API Key 的 Codex。
@@ -435,7 +440,7 @@ Codex 已包含在各 ChatGPT 方案中，包括 Free 和 Go；选择时看实�
 
 账号页面可能提供四类后续选择：等待正常周期重置、使用已有的 Banked Reset、购买额外点数，或升级套餐。点数是在套餐用量耗尽后按实际使用扣除的额外余额；Banked Reset 则是可能发到账号、需要手动使用且会过期的一次性促销权益，二者不能混为一谈。购买资格、余额和 Reset 有效期以 Usage 页面为准，具体比较见 [Codex 点数充值、Reset 与 Pro 怎么选](./articles/codex-credits-recharge-guide.md)。
 
-**近期变化：** 官方常规 20× 新购／升级与 PlusGO 新开通仍暂停，老用户回购、续订／恢复分别核对条件，详见 [Pro 购买范围](#pro)。9 月 9 日进入 Work / Codex 的 Deep Research 使用既有用量或点数，不额外送一套额度，普通 Chat 的 Deep Research 限额不变。[官方更新记录](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)。
+**近期变化：** Pro 200 新购已恢复，新额度低于旧 20×，历史资格与 10 月 29 日截止日见 [Pro 购买范围](#pro)。GPT-6.1 Sol 是 Work / Codex 更新；Pro 的 Codex 输入预测 Beta 可减少输入，但生成建议不收费不等于发送后免费，详细条件见 [Pro 输入预测说明](https://github.com/duck-gogo/chatgpt-pro-tutorial#composer-predictions)。[官方更新记录](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)。
 
 **Word 办公场景：** 9 月 17 日新增 ChatGPT for Word，可在侧栏起草、总结和修改文档。包括 Free 在内的所有套餐均可使用，并非 Pro 独占；Plus / Pro 的 Word 与 Codex 等受支持功能共享使用额度。先用实际文档评估效果和消耗，再判断是否需要更高档位；点数关系见 [点数指南](./articles/codex-credits-recharge-guide.md)。[官方发布说明](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)。
 
@@ -489,7 +494,7 @@ OpenAI 官方 Business 工作区至少需要 2 个 Standard / Premium 付费席�
 
 GPT-5.6 在 2026 年 7 月发布，Luna、Terra、Sol 分别面向轻量高频、日常工作与复杂任务。已有订阅的用户，应先在实际使用的界面核对可选型号，不必因模型更新退订重买。
 
-关于 GPT-5.6 的型号、原有 Chat 档位和官方订阅切换说明，保留在 [GPT-5.6 要额外付费吗](./articles/gpt-5-6-which-plan.md)。准备使用新模型或重新选购时，先看 [Astra 选档指南](./articles/gpt-6-astra-which-plan.md)，不要用旧型号表推断 Astra 权限。
+GPT-5.6 的历史型号表保留在 [GPT-5.6 要额外付费吗](./articles/gpt-5-6-which-plan.md)，不作为当前完整模型清单。准备新购时先看 [GPT-6 / Astra 选档指南](./articles/gpt-6-astra-which-plan.md)；普通 Chat 的 GPT-6 与 Work / Codex 的 GPT-6.1 分开确认。
 
 ------
 
@@ -503,6 +508,7 @@ GPT-5.6 在 2026 年 7 月发布，Luna、Terra、Sol 分别面向轻量高频�
 
 集中维护的官方资料见 [SOURCES.md](./SOURCES.md)。
 
+- 2026-10-13：同步 Pro 三档、新购与旧额度 10 月 29 日截止日及 PlusGO 当前销售；更新 GPT-6 / GPT-6.1、输入预测摘要、Wallet / 自动充值与账号、安全排查，保留历史记录。
 - 2026-09-21：补充官方 20× 一次性回购及 PlusGO 新开通暂停、续订／恢复范围；同步 Business 2–25 席和 Plus 多月停止新售，新增 Thinking 手动选择提醒、点数负余额与退款例外及 Word 办公场景。
 - 2026-09-14：区分官方 20× 常规新购暂停与 PlusGO 新开通／存量续订，修正选档、采购及订单排查中的账号范围和周期，关联 Pro 仓库的详细付款清单。
 - 2026-09-12：同步 Pro 20× 暂停新购／升级、有效老用户续订与验收边界；更新 Astra 在 Chat 和 Work / Codex 的套餐及限额说明，修正企业采购、FAQ 与订单排查中的旧引导。

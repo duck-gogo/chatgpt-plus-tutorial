@@ -1,6 +1,6 @@
 # OpenAI 账号被停用怎么办？ChatGPT 封号原因与官方申诉步骤（2026）
 
-> 最近更新：2026 年 8 月 11 日
+> 最近更新：2026 年 10 月 13 日（本次仅新增 Security history 与会话安全检查；停用原因及申诉流程保留原核对范围）
 
 > **说明：** 本文由本仓库维护者根据 OpenAI 公开资料整理，用于帮助读者区分账号停用、订阅异常和申诉入口，不代表 OpenAI 客服，也不能保证申诉结果。
 
@@ -93,6 +93,14 @@ OpenAI 当前建议提供：
 
 ------
 
+## 还能登录时，检查 Security history 与活动会话
+
+网页端进入 `Settings → Security and login → Security history`，查看登录、退出、密码和安全设置变更的事件类型与时间。地点或设备信息可能近似或缺失，不能只凭地名变化认定被盗，也不能把它当作停用原因的证明。
+
+Security history 是历史事件，**Active sessions** 才是当前会话。发现确实未授权的活动时，若使用密码先修改密码，再退出所有会话，并联系 OpenAI 支持；启用 MFA 不会自动取消现有登录。退出其他会话可能需要最多 30 分钟。保存必要的脱敏时间线，不向公开 Issue 提交凭据。[官方账号安全说明](https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure)。
+
+已无法登录时，不为查看历史而反复注册或付款，仍按上方通知邮件与申诉入口处理。
+
 ## 如何降低再次被限制的风险
 
 - 遵守 [OpenAI 使用政策](https://openai.com/policies/usage-policies/)和[服务条款](https://openai.com/policies/row-terms-of-use/)；
@@ -130,6 +138,7 @@ OpenAI 的公开说明没有承诺固定处理时长。应以官方回复为准�
 
 - [Why Was My OpenAI Account Deactivated?](https://help.openai.com/en/articles/10562188)
 - [OpenAI 官方申诉表单](https://openai.com/form/appeal/)
+- [Keeping your OpenAI account secure](https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure)
 - [OpenAI Account Sharing Policy](https://help.openai.com/en/articles/10471989-openai-account-sharing-policy)
 - [ChatGPT Supported Countries](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries-and-territories)
 - [OpenAI Usage Policies](https://openai.com/policies/usage-policies/)
